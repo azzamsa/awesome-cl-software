@@ -1,7 +1,7 @@
-# Awesome Common Lisp Software
+# Awesome Common Lisp Application Software
 
-this is a list of awesome software built with Common Lisp.
-since [awesome-cl](https://github.com/CodyReichert/awesome-cl) focus only for library, so I make this list to accomodate awesome software built with Common Lisp
+this is a list of awesome [application software](https://en.wikipedia.org/wiki/Application_software) built with Common Lisp.
+since [awesome-cl](https://github.com/CodyReichert/awesome-cl) focus only for library, so I make this list to accomodate awesome application/ software built with Common Lisp
 
 
 ## Applications
@@ -10,10 +10,19 @@ since [awesome-cl](https://github.com/CodyReichert/awesome-cl) focus only for li
 
 - [PWGL](http://www2.siba.fi/PWGL/) - A Visual Programming Language for Music and Sound
 
-### Chat Clients
+### Chat
+
+- [Collen](https://github.com/Shinmera/colleen) - Common Lisp IRC bot with a modular framework.
+- [Chatter](https://github.com/Shinmera/chatter) - A chat client based on Twitter DMs. 
+- [Potato](https://github.com/cicakhq/potato) - Delicious conversations platform in Common Lisp and ClojureScript 
+
 ### Development
-#### Database
-### E-Book Utilities
+
+- [Buildapp](https://github.com/xach/buildapp) - Buildapp makes it easy to build application executables with SBCL 
+- [parachute](https://github.com/Shinmera/parachute) - An extensible and cross-compatible testing framework.
+- [Quickproject](https://github.com/xach/quickproject) - Create a CL project skeleton 
+
+
 ### Editors
 ### Education
 
@@ -23,37 +32,35 @@ since [awesome-cl](https://github.com/CodyReichert/awesome-cl) focus only for li
 
 
 ### Email
-### File Manager
 ### Games
+
+- [Shootman](https://github.com/Shinmera/shootman) - a shootman game 
+
+
 ### Graphics
-#### Graphic Creation
 
-- [Snek](https://github.com/inconvergent/snek) - An experimental system for writing generative systems 
+- [Flow](https://github.com/Shinmera/flow) - Tools for the representation of graphs and flowcharts 
+- [Halftone](https://github.com/Shinmera/halftone) - A simple image viewer in Common Lisp. 
+- [kiga-wavesim](https://github.com/Shinmera/kiga-wavesim) - Simple wave simulator 
+- [Snek](https://github.com/inconvergent/snek) - An experimental system for writing generative systems
+- [Stektcheroo](https://github.com/xach/sketcheroo) - 2D drawing and layout. 
 - [Wigflip](http://wigflip.com/) - image playground
+- [Parasol](https://github.com/Shinmera/parasol) -  A Common Lisp painting application 
 
 
-#### Image Editor
-#### Screen Recorder
-#### Screenshot
-#### Streaming
-#### Video editor
 ### Health
 
 - [PRISM](http://www.radonc.washington.edu/medinfo/prism/) - The Prism project is a long term project to build software tools for radiation therapy planning, including artificial intelligence tools as well as manual simulation systems.
 
 
 ### Internet
-#### Browser
 ### Office
 ### Productivity
 ### Security
-### Sharing Files
 ### Static Blog Generator
 
 - [Coleslaw](https://github.com/kingcons/coleslaw) - Flexible Lisp Blogware 
 
-### Terminal
-### Video
 ### Wiki software
 ### Window Manager
 
@@ -64,6 +71,8 @@ since [awesome-cl](https://github.com/CodyReichert/awesome-cl) focus only for li
 
 - [Matrix Airfare Search](http://matrix.itasoftware.com/) - low-fare search engine
 - [DART](https://en.wikipedia.org/wiki/Dynamic_Analysis_and_Replanning_Tool) - Application to optimize and schedule the transportation of supplies or personnel and solve other logistical problems.
+- [Sandfall](https://github.com/gingeralesy/sandfall) - Falling sands simulator. 
+
 
 ## Other Lists
 
