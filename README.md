@@ -3,7 +3,7 @@
 ![Lisp logo](https://github.com/azzamsa/lisp-logo/blob/master/logos/lisp-lizard-with-text.svg)
 
 this is a list of awesome [application software](https://en.wikipedia.org/wiki/Application_software) built with Common Lisp.
-since [awesome-cl](https://github.com/CodyReichert/awesome-cl) focus only for library, so I make this list to accomodate awesome application/ software built with Common Lisp
+since [awesome-cl](https://github.com/CodyReichert/awesome-cl) focus only for library, so I make this list to accomodate awesome application software built with Common Lisp
 
 
 ## Applications
