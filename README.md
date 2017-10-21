@@ -51,6 +51,10 @@ see [Awesome-cl](https://github.com/CodyReichert/awesome-cl)
 
 
 ### Internet
+#### Browser
+
+- [nEXT](https://github.com/nEXT-Browser/nEXT) -  nEXT - The fastest productivity web-browser. 
+
 ### Office
 ### Productivity
 ### Security
@@ -67,8 +71,13 @@ see [Awesome-cl](https://github.com/CodyReichert/awesome-cl)
 ### Other
 
 - [Matrix Airfare Search](http://matrix.itasoftware.com/) - low-fare search engine
-- [DART](https://en.wikipedia.org/wiki/Dynamic_Analysis_and_Replanning_Tool) - Application to optimize and schedule the transportation of supplies or personnel and solve other logistical problems.
 - [Sandfall](https://github.com/gingeralesy/sandfall) - Falling sands simulator. 
+
+#### Historical Hurpose 
+
+- [DART](https://en.wikipedia.org/wiki/Dynamic_Analysis_and_Replanning_Tool) - Application to optimize and schedule the transportation of supplies or personnel and solve other logistical problems.
+
+
 
 
 ## Other Lists
@@ -76,11 +85,13 @@ see [Awesome-cl](https://github.com/CodyReichert/awesome-cl)
 - [Allegro Common Lisp Success Stories ](https://franz.com/success/) - by Franc Inc
   - [Customer Application List](https://franz.com/success/all_customer_apps.lhtml)
 - [Cliki](http://cliki.net/) -  CLiki the common lisp wiki
+  - [Application](http://cliki.net/application) - Stand-alone applications written in Common Lisp 
 - [Applications](http://www.paulgraham.com/apps.html) - by Paul Graham
 - [awesome-CL](https://github.com/azzamsa/awesome-CL-software)
 - [Lisp Companies](http://pchristensen.com/blog/lisp-companies/) - by Peter Christensen
 - [LispWorks Success Stories  ](http://www.lispworks.com/success-stories/index.html)
-
+- [Success Stories - lisplang.org](http://lisp-lang.org/success/)
+- [Common Lisp Software Wikipedia](https://en.wikipedia.org/wiki/Category:Common_Lisp_software)
 
 ## Contributors
 ## Guidelines to contribute
