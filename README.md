@@ -3,7 +3,6 @@
 ![Lisp logo](https://github.com/azzamsa/lisp-logo/blob/master/logos/lisp-lizard-with-text.svg)
 
 this is a list of awesome [application software](https://en.wikipedia.org/wiki/Application_software) built with Common Lisp.
-Since [awesome-cl](https://github.com/CodyReichert/awesome-cl) focuses only on libraries and [lisp-lang.org's success stories](http://lisp-lang.org/success/) is a curated list with proprietary software,  I made this list to accomodate awesome application software built with Common Lisp.
 
 
 ## Applications
@@ -14,14 +13,15 @@ Since [awesome-cl](https://github.com/CodyReichert/awesome-cl) focuses only on l
 
 ### Chat
 
-- [Collen](https://github.com/Shinmera/colleen) - Common Lisp IRC bot with a modular framework.
 - [Chatter](https://github.com/Shinmera/chatter) - A chat client based on Twitter DMs. 
+- [Collen](https://github.com/Shinmera/colleen) - Common Lisp IRC bot with a modular framework.
 - [Potato](https://github.com/cicakhq/potato) - Delicious conversations platform in Common Lisp and ClojureScript .
 
 ### Databases
 
-- [Pgloader](https://github.com/dimitri/pgloader/) - a data loading tool for PostgreSQL. Re-written from Python for a 30x speed gain ([blog post](http://tapoueh.org/blog/2014/05/14-pgloader-got-faster.html)).
 - [Pgchart](https://github.com/dimitri/pgcharts) - a self-contained web application that takes as input an SQL query text and outputs its data as a chart.
+- [Pgloader](https://github.com/dimitri/pgloader/) - a data loading tool for PostgreSQL. Re-written from Python for a 30x speed gain ([blog post](http://tapoueh.org/blog/2014/05/14-pgloader-got-faster.html)).
+
 
 ### Development
 
@@ -30,8 +30,9 @@ See [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 ### Editors
 ### Education
 
-- [Maxima](https://sourceforge.net/projects/maxima/files/) - Computer Algebra System written in Common Lisp.
 - [ACL2](http://www.cs.utexas.edu/users/moore/acl2/) - ACL2 is a logic and programming language in which you can model computer systems, together with a tool to help you prove properties of those models.
+- [Maxima](https://sourceforge.net/projects/maxima/files/) - Computer Algebra System written in Common Lisp.
+
 
 ### Email
 ### Games
@@ -44,10 +45,11 @@ See [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 - [Flow](https://github.com/Shinmera/flow) - Tools for the representation of graphs and flowcharts.
 - [Halftone](https://github.com/Shinmera/halftone) - A simple image viewer in Common Lisp. 
 - [kiga-wavesim](https://github.com/Shinmera/kiga-wavesim) - Simple wave simulator.
+- [Parasol](https://github.com/Shinmera/parasol) -  A Common Lisp painting application.
 - [Snek](https://github.com/inconvergent/snek) - An experimental system for writing generative systems.
 - [Stektcheroo](https://github.com/xach/sketcheroo) - 2D drawing and layout. 
 - [Wigflip](http://wigflip.com/) - image playground.
-- [Parasol](https://github.com/Shinmera/parasol) -  A Common Lisp painting application.
+
 
 
 ### Health
@@ -70,8 +72,9 @@ See [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 ### Wiki software
 ### Window Manager
 
-- [Stumpwm](https://github.com/stumpwm/stumpwm) - The Stump Window Manager.
 - [Sawfish](https://github.com/SawfishWM/sawfish) - Sawfish Window-Manager.
+- [Stumpwm](https://github.com/stumpwm/stumpwm) - The Stump Window Manager.
+
 
 ### Other
 
@@ -87,16 +90,18 @@ See [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 ## Other Lists
 
-- [Success Stories - lisp-lang.org](http://lisp-lang.org/success/)
 - [Allegro Common Lisp Success Stories ](https://franz.com/success/) - by Franc Inc
   - [Customer Application List](https://franz.com/success/all_customer_apps.lhtml)
+- [awesome-cl](https://github.com/azzamsa/awesome-CL-software)
 - [Cliki](http://cliki.net/) -  CLiki the common lisp wiki
-  - [Application](http://cliki.net/application) - Stand-alone applications written in Common Lisp 
-- [Applications](http://www.paulgraham.com/apps.html) - by Paul Graham
-- [awesome-CL](https://github.com/azzamsa/awesome-CL-software)
-- [Lisp Companies](http://pchristensen.com/blog/lisp-companies/) - by Peter Christensen
+  - [Application](http://cliki.net/application) - Stand-alone applications written in Common Lisp
+- [Lisp-lang Success Stories](http://lisp-lang.org/success/)
 - [LispWorks Success Stories  ](http://www.lispworks.com/success-stories/index.html)
-- [Common Lisp Software Wikipedia](https://en.wikipedia.org/wiki/Category:Common_Lisp_software)
+- [Paul Graham - Applications](http://www.paulgraham.com/apps.html)
+- [Peter Christensen - Lisp Companies](http://pchristensen.com/blog/lisp-companies/)
+- [Wikipedia Common Lisp Software](https://en.wikipedia.org/wiki/Category:Common_Lisp_software)
+
+
 
 ## Contributors
 ## Guidelines to contribute
