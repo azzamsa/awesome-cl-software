@@ -1,5 +1,7 @@
 # Awesome Common Lisp Application Software
 
+![Lisp logo](https://github.com/azzamsa/lisp-logo/blob/master/logos/lisp-lizard-with-text.svg)
+
 this is a list of awesome [application software](https://en.wikipedia.org/wiki/Application_software) built with Common Lisp.
 since [awesome-cl](https://github.com/CodyReichert/awesome-cl) focus only for library, so I make this list to accomodate awesome application/ software built with Common Lisp
 
@@ -18,18 +20,13 @@ since [awesome-cl](https://github.com/CodyReichert/awesome-cl) focus only for li
 
 ### Development
 
-- [Buildapp](https://github.com/xach/buildapp) - Buildapp makes it easy to build application executables with SBCL 
-- [parachute](https://github.com/Shinmera/parachute) - An extensible and cross-compatible testing framework.
-- [Quickproject](https://github.com/xach/quickproject) - Create a CL project skeleton 
-
+see [Awesome-cl](https://github.com/CodyReichert/awesome-cl)
 
 ### Editors
 ### Education
 
 - [Maxima](https://sourceforge.net/projects/maxima/files/) - Computer Algebra System written in Common Lisp 
 - [ACL2](http://www.cs.utexas.edu/users/moore/acl2/) - ACL2 is a logic and programming language in which you can model computer systems, together with a tool to help you prove properties of those models.
-
-
 
 ### Email
 ### Games
