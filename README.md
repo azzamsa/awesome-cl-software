@@ -21,6 +21,7 @@ since [awesome-cl](https://github.com/CodyReichert/awesome-cl) focus only for li
 ### Databases
 
 - [Pgloader](https://github.com/dimitri/pgloader/) - a data loading tool for PostgreSQL. Re-written from Python for a 30x speed gain ([blog post](http://tapoueh.org/blog/2014/05/14-pgloader-got-faster.html)).
+- [Pgchart](https://github.com/dimitri/pgcharts) - a self-contained web application that takes as input an SQL query text and outputs its data as a chart.
 
 ### Development
 
