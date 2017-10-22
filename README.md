@@ -25,7 +25,12 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
 
 ### Development
 
-See [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
+### IDE
+
+- [SLIME](https://github.com/slime/slime) - The Superior Lisp Interaction Mode for Emacs 
+
+
+For more see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 ### Editors
 ### Education
@@ -42,15 +47,20 @@ See [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 ### Graphics
 
+#### Image Creation
+
 - [Flow](https://github.com/Shinmera/flow) - Tools for the representation of graphs and flowcharts.
-- [Halftone](https://github.com/Shinmera/halftone) - A simple image viewer in Common Lisp. 
 - [kiga-wavesim](https://github.com/Shinmera/kiga-wavesim) - Simple wave simulator.
 - [Parasol](https://github.com/Shinmera/parasol) -  A Common Lisp painting application.
+- [Sketch](https://github.com/vydd/sketch) -A Common Lisp framework for the creation of electronic art, visual design, game prototyping, game making, computer graphics, exploration of human-computer interaction, and more. 
 - [Snek](https://github.com/inconvergent/snek) - An experimental system for writing generative systems.
 - [Stektcheroo](https://github.com/xach/sketcheroo) - 2D drawing and layout. 
 - [Wigflip](http://wigflip.com/) - image playground.
 
 
+#### Image Viewer
+
+- [Halftone](https://github.com/Shinmera/halftone) - A simple image viewer in Common Lisp. 
 
 ### Health
 
@@ -63,6 +73,12 @@ See [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 - [nEXT](https://github.com/nEXT-Browser/nEXT) -  nEXT - The fastest productivity web-browser. 
 
 ### Office
+### Operating System
+
+- [Mezzano](https://github.com/froggey/Mezzano) - An operating system written in Common Lisp
+- [Yalo](https://github.com/whily/yalo) - Lisp OS running on bare metal x86-64 hardware (WIP).
+
+
 ### Productivity
 ### Security
 ### Static Blog Generator
