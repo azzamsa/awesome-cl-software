@@ -42,6 +42,7 @@ For more see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 ### Email
 ### Games
 
+- [Ball-z](https://github.com/borodust/ball-z) - Game with balls.
 - [Mortar-Combat](https://github.com/borodust/mortar-combat) - Knock out each other with mortars! 
 - [Shootman](https://github.com/Shinmera/shootman) - a shootman game.
 
