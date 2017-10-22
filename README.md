@@ -13,6 +13,7 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
 
 ### Chat
 
+- [Beirc](https://common-lisp.net/project/beirc/) - A clim-based IRC client. No license specified.
 - [Chatter](https://github.com/Shinmera/chatter) - A chat client based on Twitter DMs. 
 - [Collen](https://github.com/Shinmera/colleen) - Common Lisp IRC bot with a modular framework.
 - [Potato](https://github.com/cicakhq/potato) - Delicious conversations platform in Common Lisp and ClojureScript.
@@ -25,14 +26,20 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
 
 ### Development
 
+
+
 #### IDE
 
 - [SLIME](https://github.com/slime/slime) - The Superior Lisp Interaction Mode for Emacs.
 
 
-For more see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
+For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 ### Editors
+
+- [Able](https://common-lisp.net/project/able/) - A Basic Lisp Editor. [MIT](https://opensource.org/licenses/MIT).
+- [Alpaca](https://github.com/mikelevins/alpaca) - the Alpaca programmable editor. No license specified.
+
 ### Education
 
 - [ACL2](http://www.cs.utexas.edu/users/moore/acl2/) - ACL2 is a logic and programming language in which you can model computer systems, together with a tool to help you prove properties of those models.
@@ -43,6 +50,7 @@ For more see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 ### Games
 
 - [Ball-z](https://github.com/borodust/ball-z) - Game with balls.
+- [Clim-chess](https://github.com/stassats/clim-chess) - CLIM interface for playing chess. No license specified.
 - [Mortar-Combat](https://github.com/borodust/mortar-combat) - Knock out each other with mortars! 
 - [Shootman](https://github.com/Shinmera/shootman) - a shootman game.
 
@@ -90,7 +98,7 @@ For more see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 ### Wiki software
 ### Window Manager
 
-- [Sawfish](https://github.com/SawfishWM/sawfish) - Sawfish Window-Manager.
+- [Eclipse](https://common-lisp.net/project/eclipse/index.shtml) - Eclipse, the Common Lisp window manager. No license specified.
 - [Stumpwm](https://github.com/stumpwm/stumpwm) - The Stump Window Manager.
 
 
