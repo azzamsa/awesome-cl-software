@@ -15,7 +15,7 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
 
 - [Chatter](https://github.com/Shinmera/chatter) - A chat client based on Twitter DMs. 
 - [Collen](https://github.com/Shinmera/colleen) - Common Lisp IRC bot with a modular framework.
-- [Potato](https://github.com/cicakhq/potato) - Delicious conversations platform in Common Lisp and ClojureScript .
+- [Potato](https://github.com/cicakhq/potato) - Delicious conversations platform in Common Lisp and ClojureScript.
 
 ### Databases
 
@@ -25,9 +25,9 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
 
 ### Development
 
-### IDE
+#### IDE
 
-- [SLIME](https://github.com/slime/slime) - The Superior Lisp Interaction Mode for Emacs 
+- [SLIME](https://github.com/slime/slime) - The Superior Lisp Interaction Mode for Emacs.
 
 
 For more see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
@@ -42,6 +42,7 @@ For more see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 ### Email
 ### Games
 
+- [Mortar-Combat](https://github.com/borodust/mortar-combat) - Knock out each other with mortars! 
 - [Shootman](https://github.com/Shinmera/shootman) - a shootman game.
 
 
