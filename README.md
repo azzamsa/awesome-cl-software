@@ -110,7 +110,7 @@ For more see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 - [Allegro Common Lisp Success Stories ](https://franz.com/success/) - by Franc Inc
   - [Customer Application List](https://franz.com/success/all_customer_apps.lhtml)
-- [awesome-cl](https://github.com/azzamsa/awesome-CL-software)
+- [awesome-cl](https://github.com/CodyReichert/awesome-cl)
 - [Cliki](http://cliki.net/) -  CLiki the common lisp wiki
   - [Application](http://cliki.net/application) - Stand-alone applications written in Common Lisp
 - [Lisp-lang Success Stories](http://lisp-lang.org/success/)
