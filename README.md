@@ -13,20 +13,20 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
 
 ### Chat
 
-- [Beirc](https://common-lisp.net/project/beirc/) - A clim-based IRC client. No license specified.
+- [Beirc](https://common-lisp.net/project/beirc/) - A clim-based IRC client. No license specified. No license specified.
 - [Chatter](https://github.com/Shinmera/chatter) - A chat client based on Twitter DMs. 
+- [Climc](https://github.com/nlamirault/climc) - A Common Lisp Instant Messaging Client. 
 - [Collen](https://github.com/Shinmera/colleen) - Common Lisp IRC bot with a modular framework.
 - [Potato](https://github.com/cicakhq/potato) - Delicious conversations platform in Common Lisp and ClojureScript.
 
-### Databases
-
-- [Pgchart](https://github.com/dimitri/pgcharts) - a self-contained web application that takes as input an SQL query text and outputs its data as a chart.
-- [Pgloader](https://github.com/dimitri/pgloader/) - a data loading tool for PostgreSQL. Re-written from Python for a 30x speed gain ([blog post](http://tapoueh.org/blog/2014/05/14-pgloader-got-faster.html)).
 
 
 ### Development
 
+#### Databases
 
+- [Pgchart](https://github.com/dimitri/pgcharts) - a self-contained web application that takes as input an SQL query text and outputs its data as a chart.
+- [Pgloader](https://github.com/dimitri/pgloader/) - a data loading tool for PostgreSQL. Re-written from Python for a 30x speed gain ([blog post](http://tapoueh.org/blog/2014/05/14-pgloader-got-faster.html)).
 
 #### IDE
 
@@ -35,10 +35,15 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
 
 For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
+### Desktop Environment
+
+- [Mcclim-desktop](https://github.com/gas2serra/mcclim-desktop) - a clim-desktop clone. [GNU GPL3](http://www.gnu.org/copyleft/gpl.html).
+
 ### Editors
 
 - [Able](https://common-lisp.net/project/able/) - A Basic Lisp Editor. [MIT](https://opensource.org/licenses/MIT).
 - [Alpaca](https://github.com/mikelevins/alpaca) - the Alpaca programmable editor. No license specified.
+- [Climacs](https://common-lisp.net/project/climacs/) - An Emacs-like editor in Common Lisp. [LGPL](http://opensource.franz.com/preamble.html).
 
 ### Education
 
@@ -51,6 +56,7 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 - [Ball-z](https://github.com/borodust/ball-z) - Game with balls.
 - [Clim-chess](https://github.com/stassats/clim-chess) - CLIM interface for playing chess. No license specified.
+- [Cl-reversi](http://reversi.kpe.io/) - Common Lisp implementation of the classic game of reversi.
 - [Mortar-Combat](https://github.com/borodust/mortar-combat) - Knock out each other with mortars! 
 - [Shootman](https://github.com/Shinmera/shootman) - a shootman game.
 
@@ -71,7 +77,7 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 #### Image Viewer
 
 - [Halftone](https://github.com/Shinmera/halftone) - A simple image viewer in Common Lisp. 
-
+- [Spectacle](https://github.com/slyrus/spectacle) - A CLIM application for viewing opticl images. [2-clause BSD](https://directory.fsf.org/wiki/License:BSD_2Clause).
 ### Health
 
 - [PRISM](http://www.radonc.washington.edu/medinfo/prism/) - The Prism project is a long term project to build software tools for radiation therapy planning, including artificial intelligence tools as well as manual simulation systems.
@@ -80,6 +86,7 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 ### Internet
 #### Browser
 
+- [Closure](https://common-lisp.net/project/closure/) - a web browser implemented in Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 - [nEXT](https://github.com/nEXT-Browser/nEXT) -  nEXT - The fastest productivity web-browser. 
 
 ### Office
