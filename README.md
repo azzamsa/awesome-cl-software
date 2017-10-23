@@ -28,8 +28,8 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
 
 #### Databases
 
-- [Pgchart](https://github.com/dimitri/pgcharts) - a self-contained web application that takes as input an SQL query text and outputs its data as a chart.
-- [Pgloader](https://github.com/dimitri/pgloader/) - a data loading tool for PostgreSQL. Re-written from Python for a 30x speed gain ([blog post](http://tapoueh.org/blog/2014/05/14-pgloader-got-faster.html)).
+- [Pgchart](https://github.com/dimitri/pgcharts) - A self-contained web application that takes as input an SQL query text and outputs its data as a chart.
+- [Pgloader](https://github.com/dimitri/pgloader/) - A data loading tool for PostgreSQL. Re-written from Python for a 30x speed gain ([blog post](http://tapoueh.org/blog/2014/05/14-pgloader-got-faster.html)).
 
 #### IDE
 
@@ -41,17 +41,18 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 ### Desktop Environment
 
-- [Mcclim-desktop](https://github.com/gas2serra/mcclim-desktop) - a clim-desktop clone. [GNU GPL3](http://www.gnu.org/copyleft/gpl.html).
+- [Mcclim-desktop](https://github.com/gas2serra/mcclim-desktop) - a clim-desktop clone. [GNU GPL3].
 
 ### Editors
 
 - [Able](https://common-lisp.net/project/able/) - A Basic Lisp Editor. [MIT](https://opensource.org/licenses/MIT).
-- [Alpaca](https://github.com/mikelevins/alpaca) - the Alpaca programmable editor. No license specified.
+- [Alpaca](https://github.com/mikelevins/alpaca) - The Alpaca programmable editor. No license specified.
 - [Climacs](https://common-lisp.net/project/climacs/) - An Emacs-like editor in Common Lisp. [LGPL](http://opensource.franz.com/preamble.html).
 
 ### Education
 
 - [ACL2](http://www.cs.utexas.edu/users/moore/acl2/) - ACL2 is a logic and programming language in which you can model computer systems, together with a tool to help you prove properties of those models.
+- [Geiriadur](http://www.cymraeg.ru/geiriadur/disgrifiad-2.html) - Dictionary lookup engine and a dictionary editing system. No license specified.
 - [Maxima](https://sourceforge.net/projects/maxima/files/) - Computer Algebra System written in Common Lisp.
 
 
@@ -146,6 +147,7 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 ### Other
 
+- [Hiper](http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/reasonng/atp/systems/hiper/0.html) - Term rewriting E-completion system. No license specified.
 - [Matrix Airfare Search](http://matrix.itasoftware.com/) - low-fare search engine.
 - [Sandfall](https://github.com/gingeralesy/sandfall) - Falling sands simulator.
 - [Tv-series-status](https://github.com/OlafMerkert/tv-series-status) - Check the web for the next episodes of TV series and find new episodes at a glance. No license specified.
@@ -204,3 +206,6 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 
+[Expat]: http://directory.fsf.org/wiki/License:Expat
+[Artistic License 2.0]:http://directory.fsf.org/wiki/License:ArtisticLicense2.0
+[GNU GPL3]:http://www.gnu.org/copyleft/gpl.html
