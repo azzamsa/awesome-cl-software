@@ -12,6 +12,7 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
 ### Audio
 
 - [Ernestine](https://github.com/nlamirault/ernestine) - Ernestine is a music management application in McClim. [MIT].
+- [OpusModus](http://opusmodus.com/) - Music composition package. [Proprietary].
 - [PWGL](http://www2.siba.fi/PWGL/) - A Visual Programming Language for Music and Sound.
 
 ### Chat
@@ -54,9 +55,9 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 ### Education
 
-- [ACL2](http://www.cs.utexas.edu/users/moore/acl2/) - ACL2 is a logic and programming language in which you can model computer systems, together with a tool to help you prove properties of those models.
+- [ACL2](http://www.cs.utexas.edu/users/moore/acl2/) - ACL2 is a logic and programming language in which you can model computer systems, together with a tool to help you prove properties of those models. [3-clause BSD].
 - [Geiriadur](http://www.cymraeg.ru/geiriadur/disgrifiad-2.html) - Dictionary lookup engine and a dictionary editing system. No license specified.
-- [Maxima](https://sourceforge.net/projects/maxima/files/) - Computer Algebra System written in Common Lisp.
+- [Maxima](https://sourceforge.net/projects/maxima/files/) - Computer Algebra System written in Common Lisp. [GPL2].
 - [Mandelbrot set explorer](http://weitz.de/mandelbrot/) - Mandelbrot set explorer. [Proprietary]
 - [Yotta-zoomer](http://repo.or.cz/w/yotta-zoomer.git) - Deep Fractal Zoomer. No license specified.
 
@@ -213,6 +214,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 [Expat]: http://directory.fsf.org/wiki/License:Expat
 [Artistic License 2.0]:http://directory.fsf.org/wiki/License:ArtisticLicense2.0
 [GPL3]:http://www.gnu.org/copyleft/gpl.html
+[GPL2]:https://www.gnu.org/licenses/gpl-2.0.html
 [LGPL]:http://opensource.franz.com/preamble.html
 [3-clause BSD]:http://directory.fsf.org/wiki/License:BSD_3Clause
 [MIT]:https://opensource.org/licenses/MIT
