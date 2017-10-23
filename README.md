@@ -1,5 +1,7 @@
 # Awesome Common Lisp Application Software
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 ![Lisp logo](https://github.com/azzamsa/lisp-logo/blob/master/logos/lisp-lizard-with-text.svg)
 
 this is a list of awesome [application software](https://en.wikipedia.org/wiki/Application_software) built with Common Lisp.
@@ -63,15 +65,36 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 ### Games
 
-- [Ball-z](https://github.com/borodust/ball-z) - Game with balls.
-- [Climon](https://github.com/nlamirault/climon) - A Simon game written in Common Lisp.  [MIT](https://opensource.org/licenses/MIT).
+#### City Building Simulation
+
+#### FPS
+
+- [Option-9](https://github.com/psilord/option-9) -  A Shoot'em Up Game. No license specified.
+- [Shootman](https://github.com/Shinmera/shootman) - a shootman game.
+
+#### RTS
+
+- [Perfectstorm](https://github.com/lispgames/perfectstorm) - Perfectstorm is a real time strategy game study. [MIT](https://opensource.org/licenses/MIT).
+
+#### Turn Based Strategy
+
 - [Clim-chess](https://github.com/stassats/clim-chess) - CLIM interface for playing chess. No license specified.
 - [Cl-reversi](http://reversi.kpe.io/) - Common Lisp implementation of the classic game of reversi.
-- [Mortar-Combat](https://github.com/borodust/mortar-combat) - Knock out each other with mortars! 
-- [Shootman](https://github.com/Shinmera/shootman) - a shootman game.
+- [Lispstone](https://github.com/TatriX/lispstone) -  Simple card game written in Common Lisp for TWG7. No license specified.
 - [Sudoku-mcclim](https://github.com/tortkis/sudoku-mcclim) -  sudoku problem generator & solver for Common Lisp & McCLIM. No license specified.
 
+#### RPG
+
+- [Ninja-sphere](https://github.com/rpav/ninja-sphere) - Ninja Sphere. No license specified.
+
+#### Miscellaneous
+
+- [Ball-z](https://github.com/borodust/ball-z) - Game with balls.
+- [Climon](https://github.com/nlamirault/climon) - A Simon game written in Common Lisp.  [MIT](https://opensource.org/licenses/MIT).
+- [Common-worm](https://github.com/zkat/common-worm) - A simple, hackish version of the classic snake game. No license specified.
+
 ### Graphics
+
 
 #### Image Creation
 
@@ -142,6 +165,8 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 - [awesome-cl](https://github.com/CodyReichert/awesome-cl)
 - [Cliki](http://cliki.net/) -  CLiki the common lisp wiki
   - [Application](http://cliki.net/application) - Stand-alone applications written in Common Lisp
+- [Common Lisp games](https://github.com/lispgames/lispgames.github.io/wiki/Common-Lisp)
+  - [Lisp Game Jams](https://github.com/lispgames/lispgames.github.io/wiki/Lisp-Game-Jams)
 - [Lisp-lang Success Stories](http://lisp-lang.org/success/)
 - [LispWorks Success Stories  ](http://www.lispworks.com/success-stories/index.html)
 - [Paul Graham - Applications](http://www.paulgraham.com/apps.html)
