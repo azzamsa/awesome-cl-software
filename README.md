@@ -11,7 +11,7 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
 
 ### Audio
 
-- [Ernestine](https://github.com/nlamirault/ernestine) - Ernestine is a music management application in McClim. [MIT](https://opensource.org/licenses/MIT).
+- [Ernestine](https://github.com/nlamirault/ernestine) - Ernestine is a music management application in McClim. [MIT].
 - [PWGL](http://www2.siba.fi/PWGL/) - A Visual Programming Language for Music and Sound.
 
 ### Chat
@@ -21,8 +21,11 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
 - [Climc](https://github.com/nlamirault/climc) - A Common Lisp Instant Messaging Client. 
 - [Collen](https://github.com/Shinmera/colleen) - Common Lisp IRC bot with a modular framework.
 - [Potato](https://github.com/cicakhq/potato) - Delicious conversations platform in Common Lisp and ClojureScript.
+- [WeirdIRC](https://sourceforge.net/projects/weird-irc/) - Widely portable IRC-Client. [LGPL].
 
+#### Chat Bot
 
+- [Lisp-paste](https://github.com/stassats/lisp-bots) - Bots from #lisp. [MIT].
 
 ### Development
 
@@ -41,20 +44,21 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 ### Desktop Environment
 
-- [Mcclim-desktop](https://github.com/gas2serra/mcclim-desktop) - a clim-desktop clone. [GNU GPL3].
+- [Mcclim-desktop](https://github.com/gas2serra/mcclim-desktop) - a clim-desktop clone. [GPL3].
 
 ### Editors
 
 - [Able](https://common-lisp.net/project/able/) - A Basic Lisp Editor. [MIT](https://opensource.org/licenses/MIT).
 - [Alpaca](https://github.com/mikelevins/alpaca) - The Alpaca programmable editor. No license specified.
-- [Climacs](https://common-lisp.net/project/climacs/) - An Emacs-like editor in Common Lisp. [LGPL](http://opensource.franz.com/preamble.html).
+- [Climacs](https://common-lisp.net/project/climacs/) - An Emacs-like editor in Common Lisp. [LGPL].
 
 ### Education
 
 - [ACL2](http://www.cs.utexas.edu/users/moore/acl2/) - ACL2 is a logic and programming language in which you can model computer systems, together with a tool to help you prove properties of those models.
 - [Geiriadur](http://www.cymraeg.ru/geiriadur/disgrifiad-2.html) - Dictionary lookup engine and a dictionary editing system. No license specified.
 - [Maxima](https://sourceforge.net/projects/maxima/files/) - Computer Algebra System written in Common Lisp.
-
+- [Mandelbrot set explorer](http://weitz.de/mandelbrot/) - Mandelbrot set explorer. [Proprietary]
+- [Yotta-zoomer](http://repo.or.cz/w/yotta-zoomer.git) - Deep Fractal Zoomer. No license specified.
 
 ### Email
 
@@ -151,7 +155,7 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 - [Matrix Airfare Search](http://matrix.itasoftware.com/) - low-fare search engine.
 - [Sandfall](https://github.com/gingeralesy/sandfall) - Falling sands simulator.
 - [Tv-series-status](https://github.com/OlafMerkert/tv-series-status) - Check the web for the next episodes of TV series and find new episodes at a glance. No license specified.
-
+- [Zen](https://github.com/pyb/zen) - The zen X server in Common Lisp. [GPL3].
 
 #### Historical Purposes
 
@@ -208,4 +212,8 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 [Expat]: http://directory.fsf.org/wiki/License:Expat
 [Artistic License 2.0]:http://directory.fsf.org/wiki/License:ArtisticLicense2.0
-[GNU GPL3]:http://www.gnu.org/copyleft/gpl.html
+[GPL3]:http://www.gnu.org/copyleft/gpl.html
+[LGPL]:http://opensource.franz.com/preamble.html
+[3-clause BSD]:http://directory.fsf.org/wiki/License:BSD_3Clause
+[MIT]:https://opensource.org/licenses/MIT
+[Proprietary]:https://en.wikipedia.org/wiki/Proprietary_software
