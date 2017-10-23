@@ -9,6 +9,7 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
 
 ### Audio
 
+- [Ernestine](https://github.com/nlamirault/ernestine) - Ernestine is a music management application in McClim. [MIT](https://opensource.org/licenses/MIT).
 - [PWGL](http://www2.siba.fi/PWGL/) - A Visual Programming Language for Music and Sound.
 
 ### Chat
@@ -31,6 +32,7 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
 #### IDE
 
 - [SLIME](https://github.com/slime/slime) - The Superior Lisp Interaction Mode for Emacs.
+- [Mcclide](https://github.com/gas2serra/mcclide) - Ide. No license specified.
 
 
 For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
@@ -52,14 +54,22 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 
 ### Email
+
+
+### File Manager
+
+- [FTD](https://github.com/gabriel-laddel/flexi-trivial-dired.git) - The Flexi-Trivial Dired. No license specified. 
+
+
 ### Games
 
 - [Ball-z](https://github.com/borodust/ball-z) - Game with balls.
+- [Climon](https://github.com/nlamirault/climon) - A Simon game written in Common Lisp.  [MIT](https://opensource.org/licenses/MIT).
 - [Clim-chess](https://github.com/stassats/clim-chess) - CLIM interface for playing chess. No license specified.
 - [Cl-reversi](http://reversi.kpe.io/) - Common Lisp implementation of the classic game of reversi.
 - [Mortar-Combat](https://github.com/borodust/mortar-combat) - Knock out each other with mortars! 
 - [Shootman](https://github.com/Shinmera/shootman) - a shootman game.
-
+- [Sudoku-mcclim](https://github.com/tortkis/sudoku-mcclim) -  sudoku problem generator & solver for Common Lisp & McCLIM. No license specified.
 
 ### Graphics
 
@@ -67,6 +77,7 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 - [Flow](https://github.com/Shinmera/flow) - Tools for the representation of graphs and flowcharts.
 - [kiga-wavesim](https://github.com/Shinmera/kiga-wavesim) - Simple wave simulator.
+- [McPixel](https://github.com/ahefner/McPixel) - A toy Lisp program for drawing and animating pixel art.  No license specified.
 - [Parasol](https://github.com/Shinmera/parasol) -  A Common Lisp painting application.
 - [Sketch](https://github.com/vydd/sketch) -A Common Lisp framework for the creation of electronic art, visual design, game prototyping, game making, computer graphics, exploration of human-computer interaction, and more. 
 - [Snek](https://github.com/inconvergent/snek) - An experimental system for writing generative systems.
@@ -78,6 +89,7 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 - [Halftone](https://github.com/Shinmera/halftone) - A simple image viewer in Common Lisp. 
 - [Spectacle](https://github.com/slyrus/spectacle) - A CLIM application for viewing opticl images. [2-clause BSD](https://directory.fsf.org/wiki/License:BSD_2Clause).
+
 ### Health
 
 - [PRISM](http://www.radonc.washington.edu/medinfo/prism/) - The Prism project is a long term project to build software tools for radiation therapy planning, including artificial intelligence tools as well as manual simulation systems.
@@ -86,7 +98,7 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 ### Internet
 #### Browser
 
-- [Closure](https://common-lisp.net/project/closure/) - a web browser implemented in Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+- [Closure](https://github.com/dym/closure) - a web browser implemented in Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 - [nEXT](https://github.com/nEXT-Browser/nEXT) -  nEXT - The fastest productivity web-browser. 
 
 ### Office
@@ -113,6 +125,8 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 - [Matrix Airfare Search](http://matrix.itasoftware.com/) - low-fare search engine.
 - [Sandfall](https://github.com/gingeralesy/sandfall) - Falling sands simulator.
+- [Tv-series-status](https://github.com/OlafMerkert/tv-series-status) - Check the web for the next episodes of TV series and find new episodes at a glance. No license specified.
+
 
 #### Historical Purposes
 
