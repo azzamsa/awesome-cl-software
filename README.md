@@ -13,7 +13,7 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
 
 ### Chat
 
-- [Beirc](https://common-lisp.net/project/beirc/) - A clim-based IRC client. No license specified. No license specified.
+- [Beirc](https://github.com/MrNeutron/beirc) - A clim-based IRC client. No license specified. No license specified.
 - [Chatter](https://github.com/Shinmera/chatter) - A chat client based on Twitter DMs. 
 - [Climc](https://github.com/nlamirault/climc) - A Common Lisp Instant Messaging Client. 
 - [Collen](https://github.com/Shinmera/colleen) - Common Lisp IRC bot with a modular framework.
