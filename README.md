@@ -56,6 +56,7 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 ### Education
 
 - [ACL2](http://www.cs.utexas.edu/users/moore/acl2/) - ACL2 is a logic and programming language in which you can model computer systems, together with a tool to help you prove properties of those models. [3-clause BSD].
+- [BioBike](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2703918/) - Fully programmable research environment and biological knowledge base.
 - [Geiriadur](http://www.cymraeg.ru/geiriadur/disgrifiad-2.html) - Dictionary lookup engine and a dictionary editing system. No license specified.
 - [Maxima](https://sourceforge.net/projects/maxima/files/) - Computer Algebra System written in Common Lisp. [GPL2].
 - [Mandelbrot set explorer](http://weitz.de/mandelbrot/) - Mandelbrot set explorer. [Proprietary]
@@ -75,6 +76,7 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 #### FPS
 
+- [Jak and Daxter](https://en.wikipedia.org/wiki/Jak_and_Daxter) - Jak and Daxter. [Proprietary].
 - [Option-9](https://github.com/psilord/option-9) -  A Shoot'em Up Game. No license specified.
 - [Shootman](https://github.com/Shinmera/shootman) - a shootman game.
 
@@ -107,6 +109,7 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 - [Flow](https://github.com/Shinmera/flow) - Tools for the representation of graphs and flowcharts.
 - [kiga-wavesim](https://github.com/Shinmera/kiga-wavesim) - Simple wave simulator.
 - [McPixel](https://github.com/ahefner/McPixel) - A toy Lisp program for drawing and animating pixel art.  No license specified.
+- [Mirai](http://www.izware.com/mirai) - 3D editor built on the winged-edge data structure. [Proprietary].
 - [Parasol](https://github.com/Shinmera/parasol) -  A Common Lisp painting application.
 - [Sketch](https://github.com/vydd/sketch) -A Common Lisp framework for the creation of electronic art, visual design, game prototyping, game making, computer graphics, exploration of human-computer interaction, and more. 
 - [Snek](https://github.com/inconvergent/snek) - An experimental system for writing generative systems.
@@ -138,6 +141,9 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 
 ### Productivity
+
+- [Grammarly](https://www.grammarly.com/) - Grammar checking. [Proprietary].
+
 ### Security
 ### Static Blog Generator
 
@@ -152,8 +158,12 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 ### Other
 
+- [Cyc](http://www.cyc.com/) - Build a database of heuristics. [Proprietary].
 - [Hiper](http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/reasonng/atp/systems/hiper/0.html) - Term rewriting E-completion system. No license specified.
-- [Matrix Airfare Search](http://matrix.itasoftware.com/) - low-fare search engine.
+- [Matrix Airfare Search](http://matrix.itasoftware.com/) - low-fare search engine. [Proprietary].
+- [Missile Defense](http://www.raytheon.com/) - Missile Defense at Raytheon. [Proprietary].
+- [Piano](Piano) - A complete aircraft analysis suite. [Proprietary].
+- [Routific](https://routific.com/) - Route optimization and fleet management. [Proprietary].
 - [Sandfall](https://github.com/gingeralesy/sandfall) - Falling sands simulator.
 - [Tv-series-status](https://github.com/OlafMerkert/tv-series-status) - Check the web for the next episodes of TV series and find new episodes at a glance. No license specified.
 - [Zen](https://github.com/pyb/zen) - The zen X server in Common Lisp. [GPL3].
@@ -161,7 +171,8 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 #### Historical Purposes
 
 - [DART](https://en.wikipedia.org/wiki/Dynamic_Analysis_and_Replanning_Tool) - Application to optimize and schedule the transportation of supplies or personnel and solve other logistical problems.
-
+- [ICAD](https://en.wikipedia.org/wiki/ICAD_(software)) - A knowledge-based CAD system.
+- 
 
 
 
