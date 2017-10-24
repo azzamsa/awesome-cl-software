@@ -155,6 +155,8 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 - [Coleslaw](https://github.com/kingcons/coleslaw) - Flexible Lisp Blogware.
 
 ### Wiki software
+- [Aliw](https://github.com/vy/aliw) - A Lisp in Wonderland (aka. ALIW) is a wiki software. [2-clause BSD].
+
 ### Window Manager
 
 - [Eclipse](https://common-lisp.net/project/eclipse/index.shtml) - Eclipse, the Common Lisp window manager. No license specified.
@@ -233,5 +235,6 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 [GPL2]:https://www.gnu.org/licenses/gpl-2.0.html
 [LGPL]:http://opensource.franz.com/preamble.html
 [3-clause BSD]:http://directory.fsf.org/wiki/License:BSD_3Clause
+[2-clause BSD]:https://opensource.org/licenses/bsd-license.php
 [MIT]:https://opensource.org/licenses/MIT
 [Proprietary]:https://en.wikipedia.org/wiki/Proprietary_software
