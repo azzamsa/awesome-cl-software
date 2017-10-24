@@ -97,9 +97,14 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 #### Miscellaneous
 
+- [asteroid-wars](https://github.com/sebity/asteroid-wars) - An asteroids game remake. [GPL2].
 - [Ball-z](https://github.com/borodust/ball-z) - Game with balls.
-- [Climon](https://github.com/nlamirault/climon) - A Simon game written in Common Lisp.  [MIT](https://opensource.org/licenses/MIT).
+- [Breakout](https://github.com/sebity/breakout) - A Remake of the Classic Game Breakout. [GPL2].
+- [Climon](https://github.com/nlamirault/climon) - A Simon game written in Common Lisp. [MIT].
+- [Final-hours](https://github.com/sebity/final-hours) - A Remake of the Classic Game Missile Command. [GPL2].
 - [Common-worm](https://github.com/zkat/common-worm) - A simple, hackish version of the classic snake game. No license specified.
+- [Snake](https://github.com/sebity/snake) - A Remake of the Classic Game Snake. [GPL2].
+- [The-invaders](https://github.com/sebity/the-invaders) - A remake of the classic game Space Invader. [GPL2].
 
 ### Graphics
 
