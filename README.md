@@ -177,7 +177,7 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 - [DART](https://en.wikipedia.org/wiki/Dynamic_Analysis_and_Replanning_Tool) - Application to optimize and schedule the transportation of supplies or personnel and solve other logistical problems.
 - [ICAD](https://en.wikipedia.org/wiki/ICAD_(software)) - A knowledge-based CAD system.
-- 
+ 
 
 
 
