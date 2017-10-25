@@ -13,7 +13,17 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
 
 - [Ernestine](https://github.com/nlamirault/ernestine) - Ernestine is a music management application in McClim. [MIT].
 - [OpusModus](http://opusmodus.com/) - Music composition package. [Proprietary].
+- [o7](https://github.com/openmusic-project/o7) - 
 - [PWGL](http://www2.siba.fi/PWGL/) - A Visual Programming Language for Music and Sound.
+
+
+### Blogging
+
+- [Ext-blog](https://github.com/kevinlynx/ext-blog) - 
+
+#### Static Blog Generator
+
+- [Coleslaw](https://github.com/kingcons/coleslaw) - Flexible Lisp Blogware.
 
 ### Chat
 
@@ -21,6 +31,8 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
 - [Chatter](https://github.com/Shinmera/chatter) - A chat client based on Twitter DMs. 
 - [Climc](https://github.com/nlamirault/climc) - A Common Lisp Instant Messaging Client. 
 - [Collen](https://github.com/Shinmera/colleen) - Common Lisp IRC bot with a modular framework.
+- [Kindista](https://github.com/kindista/kindista) - A social network for local sharing. [AGPL3]
+- [Lisp-chat](https://github.com/ryukinix/lisp-chat) - An experimental minimal chat. [MIT].
 - [Potato](https://github.com/cicakhq/potato) - Delicious conversations platform in Common Lisp and ClojureScript.
 - [WeirdIRC](https://sourceforge.net/projects/weird-irc/) - Widely portable IRC-Client. [LGPL].
 
@@ -28,10 +40,14 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
 
 - [Lisp-paste](https://github.com/stassats/lisp-bots) - Bots from #lisp. [MIT].
 
-### Development
+### Development Tools
+
+- [Sbcl-shell](https://github.com/dbjergaard/sbcl-shell) - A command shell. [No License Specified].
+- [Nix-lisp](https://github.com/ebzzry/nix-lisp) - A simple Nixpkgs and NixOS helper. [No License Specified].
 
 #### Databases
 
+- [LambdaLite](https://github.com/Wukix/LambdaLite) - A functional, relational database in about 250 lines of Common Lisp. [MIT].
 - [Pgchart](https://github.com/dimitri/pgcharts) - A self-contained web application that takes as input an SQL query text and outputs its data as a chart.
 - [Pgloader](https://github.com/dimitri/pgloader/) - A data loading tool for PostgreSQL. Re-written from Python for a 30x speed gain ([blog post](http://tapoueh.org/blog/2014/05/14-pgloader-got-faster.html)).
 
@@ -55,11 +71,15 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 ### Education
 
-- [ACL2](http://www.cs.utexas.edu/users/moore/acl2/) - ACL2 is a logic and programming language in which you can model computer systems, together with a tool to help you prove properties of those models. [3-clause BSD].
+- [ACL2](https://github.com/acl2/acl2) - A theorem proving environment. [3-clause BSD].
 - [BioBike](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2703918/) - Fully programmable research environment and biological knowledge base.
+- [Biochat](https://github.com/Bohdan-Khomtchouk/Biochat) - Where biological datasets learn to talk to each other. [MIT].
+- [Clnuplot](https://github.com/gwkkwg/clnuplot) - GNUplot in Common Lisp. [MIT].
 - [Geiriadur](http://www.cymraeg.ru/geiriadur/disgrifiad-2.html) - Dictionary lookup engine and a dictionary editing system. No license specified.
 - [Maxima](https://sourceforge.net/projects/maxima/files/) - Computer Algebra System written in Common Lisp. [GPL2].
 - [Mandelbrot set explorer](http://weitz.de/mandelbrot/) - Mandelbrot set explorer. [Proprietary]
+- [Sparser](https://github.com/ddmcdonald/sparser) - A natural language understanding system for English, [No License Specified].
+- [Weyl](https://github.com/OdonataResearchLLC/weyl) - Computer algebra substrate from Cornell University. [No License Specified].
 - [Yotta-zoomer](http://repo.or.cz/w/yotta-zoomer.git) - Deep Fractal Zoomer. No license specified.
 
 ### Email
@@ -76,6 +96,7 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 #### FPS
 
+- [CotD](https://github.com/gwathlobal/CotD) - A roguelike battle of Angels and Demons in the streets of a Human city. [GPL3].
 - [Jak and Daxter](https://en.wikipedia.org/wiki/Jak_and_Daxter) - Jak and Daxter. [Proprietary].
 - [Option-9](https://github.com/psilord/option-9) -  A Shoot'em Up Game. No license specified.
 - [Shootman](https://github.com/Shinmera/shootman) - a shootman game.
@@ -97,13 +118,16 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 #### Miscellaneous
 
+- [Asteroids](https://github.com/andyhd/asteroids) - Asteroids game in Common Lisp. [No License Specified].
 - [asteroid-wars](https://github.com/sebity/asteroid-wars) - An asteroids game remake. [GPL2].
 - [Ball-z](https://github.com/borodust/ball-z) - Game with balls.
 - [Breakout](https://github.com/sebity/breakout) - A Remake of the Classic Game Breakout. [GPL2].
 - [Climon](https://github.com/nlamirault/climon) - A Simon game written in Common Lisp. [MIT].
+- [Cl-dino](https://github.com/VitoVan/cl-dino) - A Chrome Dinosaur Robot. [GPL3].
 - [Final-hours](https://github.com/sebity/final-hours) - A Remake of the Classic Game Missile Command. [GPL2].
 - [Common-worm](https://github.com/zkat/common-worm) - A simple, hackish version of the classic snake game. No license specified.
 - [Snake](https://github.com/sebity/snake) - A Remake of the Classic Game Snake. [GPL2].
+- [Starwar](https://github.com/xzpeter/starwar) - Starwar. [No License Specified].
 - [The-invaders](https://github.com/sebity/the-invaders) - A remake of the classic game Space Invader. [GPL2].
 
 ### Graphics
@@ -136,9 +160,10 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 #### Browser
 
 - [Closure](https://github.com/dym/closure) - a web browser implemented in Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+- [Lispkit](https://github.com/AeroNotix/lispkit) - A lisp web browser using WebKit. [2-clause BSD].
 - [nEXT](https://github.com/nEXT-Browser/nEXT) -  nEXT - The fastest productivity web-browser. 
 
-### Office
+
 ### Operating System
 
 - [Mezzano](https://github.com/froggey/Mezzano) - An operating system written in Common Lisp
@@ -147,12 +172,12 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 ### Productivity
 
+- [Cl-Markdown](https://github.com/gwkkwg/cl-markdown) - A Common Lisp rewrite of Markdown.[MIT].
 - [Grammarly](https://www.grammarly.com/) - Grammar checking. [Proprietary].
+- [Projectured](https://github.com/projectured/projectured) -  ProjecturEd is a generic purpose projectional editor. [No License Specified].
+
 
 ### Security
-### Static Blog Generator
-
-- [Coleslaw](https://github.com/kingcons/coleslaw) - Flexible Lisp Blogware.
 
 ### Wiki software
 - [Aliw](https://github.com/vy/aliw) - A Lisp in Wonderland (aka. ALIW) is a wiki software. [2-clause BSD].
@@ -161,11 +186,12 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 - [Eclipse](https://common-lisp.net/project/eclipse/index.shtml) - Eclipse, the Common Lisp window manager. No license specified.
 - [Stumpwm](https://github.com/stumpwm/stumpwm) - The Stump Window Manager.
-
+- [Paulownia](https://github.com/stumpwm/paulownia) - A modern re-write of stumpwm. [GPL2].
 
 ### Other
 
 - [Cyc](http://www.cyc.com/) - Build a database of heuristics. [Proprietary].
+- [Denso](https://github.com/start-jsk/denso) - A controller package suite for robots from Densowave based on open-industrial-ros-controllers. [No License Specified].
 - [Hiper](http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/reasonng/atp/systems/hiper/0.html) - Term rewriting E-completion system. No license specified.
 - [Matrix Airfare Search](http://matrix.itasoftware.com/) - low-fare search engine. [Proprietary].
 - [Missile Defense](http://www.raytheon.com/) - Missile Defense at Raytheon. [Proprietary].
@@ -201,6 +227,11 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 
 ## Contributors
+
+Thanks to All of Github contributors for making this list possible and
+Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com &
+other forums for many suggestions and compliments.
+
 ## Guidelines to contribute
 
 > Simply put the name of the **application** in the list.
@@ -216,6 +247,10 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 - [How to Git from the Command Line](https://rogerdudler.github.io/git-guide/)
 - [What is Markdown?](https://github.com/LewisVo/Markdown-Tutorial) - Markdown is the writing method used to create this list, if you want to know how to format properly, it's best that you learn how to use Github Markdown.
 - [Alternative Markdown Guide:](https://guides.github.com/features/mastering-markdown/)
+
+## Note
+
+- You can learn about licenses in [tl;drLegal](https://tldrlegal.com/)
 
 ## Credit
 
@@ -234,6 +269,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 [GPL3]:http://www.gnu.org/copyleft/gpl.html
 [GPL2]:https://www.gnu.org/licenses/gpl-2.0.html
 [LGPL]:http://opensource.franz.com/preamble.html
+[AGPL3]:https://www.gnu.org/licenses/agpl.html
 [3-clause BSD]:http://directory.fsf.org/wiki/License:BSD_3Clause
 [2-clause BSD]:https://opensource.org/licenses/bsd-license.php
 [MIT]:https://opensource.org/licenses/MIT
