@@ -42,6 +42,7 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
 
 ### Development Tools
 
+- [Cepl](https://github.com/cbaggers/cepl) - Code Evaluate Play Loop. [2-clause BSD].
 - [Sbcl-shell](https://github.com/dbjergaard/sbcl-shell) - A command shell. [No License Specified].
 - [Nix-lisp](https://github.com/ebzzry/nix-lisp) - A simple Nixpkgs and NixOS helper. [No License Specified].
 
@@ -65,9 +66,10 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 ### Editors
 
-- [Able](https://common-lisp.net/project/able/) - A Basic Lisp Editor. [MIT](https://opensource.org/licenses/MIT).
+- [Able](https://common-lisp.net/project/able/) - A Basic Lisp Editor. [MIT].
 - [Alpaca](https://github.com/mikelevins/alpaca) - The Alpaca programmable editor. No license specified.
 - [Climacs](https://common-lisp.net/project/climacs/) - An Emacs-like editor in Common Lisp. [LGPL].
+- [Med](https://github.com/burtonsamograd/med) - Emacs-like text editor for the Mezzano operating system. [MIT].
 
 ### Education
 
@@ -88,7 +90,7 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 ### File Manager
 
 - [FTD](https://github.com/gabriel-laddel/flexi-trivial-dired.git) - The Flexi-Trivial Dired. No license specified. 
-
+- [Filer](https://github.com/froggey/Mezzano) - Mezzano File Manager.
 
 ### Games
 
@@ -177,9 +179,13 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 - [Projectured](https://github.com/projectured/projectured) -  ProjecturEd is a generic purpose projectional editor. [No License Specified].
 
 
-### Security
+### Video
+#### Video Player
+
+- [Terentino](https://github.com/froggey/Mezzano) - Mezzano Video Player. [MIT].
 
 ### Wiki software
+
 - [Aliw](https://github.com/vy/aliw) - A Lisp in Wonderland (aka. ALIW) is a wiki software. [2-clause BSD].
 
 ### Window Manager
