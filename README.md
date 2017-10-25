@@ -13,13 +13,13 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
 
 - [Ernestine](https://github.com/nlamirault/ernestine) - Ernestine is a music management application in McClim. [MIT].
 - [OpusModus](http://opusmodus.com/) - Music composition package. [Proprietary].
-- [o7](https://github.com/openmusic-project/o7) - 
+- [o7](https://github.com/openmusic-project/o7) - Visual programming / Computer-aided music composition environment. [No License Specified].
 - [PWGL](http://www2.siba.fi/PWGL/) - A Visual Programming Language for Music and Sound.
 
 
 ### Blogging
 
-- [Ext-blog](https://github.com/kevinlynx/ext-blog) - 
+- [Ext-blog](https://github.com/kevinlynx/ext-blog) - blog engine. It supports custom theme and you can port a WordPress theme for it. [No License Specified].
 
 #### Static Blog Generator
 
@@ -228,9 +228,7 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 ## Contributors
 
-Thanks to All of Github contributors for making this list possible and
-Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com &
-other forums for many suggestions and compliments.
+Thanks to All of Github contributors and Everyone @ reddit.com/r/lisp for many suggestions and compliments.
 
 ## Guidelines to contribute
 
