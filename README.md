@@ -69,6 +69,7 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 - [Able](https://common-lisp.net/project/able/) - A Basic Lisp Editor. [MIT].
 - [Alpaca](https://github.com/mikelevins/alpaca) - The Alpaca programmable editor. No license specified.
 - [Climacs](https://common-lisp.net/project/climacs/) - An Emacs-like editor in Common Lisp. [LGPL].
+- [MarkEdit](https://github.com/ceramic/markedit/) - Markdown editor and previewer built with Ceramic. No license specified.
 - [Med](https://github.com/burtonsamograd/med) - Emacs-like text editor for the Mezzano operating system. [MIT].
 
 ### Education
