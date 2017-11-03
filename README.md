@@ -55,6 +55,7 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
 #### IDE
 
 - [SLIME](https://github.com/slime/slime) - The Superior Lisp Interaction Mode for Emacs.
+- [Sly](https://github.com/joaotavora/sly) - Sylvester the Cat's Common Lisp IDE (slime's fork)
 - [Mcclide](https://github.com/gas2serra/mcclide) - Ide. No license specified.
 
 
