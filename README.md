@@ -215,6 +215,11 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 - [ICAD](https://en.wikipedia.org/wiki/ICAD_(software)) - A knowledge-based CAD system.
  
 
+## Mobile Applications
+
+- [CL REPLay](https://gitlab.com/eql/EQL5-Android/tree/master/examples/REPL) - A REPL with simple editor. No license specified.
+- [Sokoban](https://gitlab.com/eql/EQL5-Android/tree/master/examples/sokoban) - Sokoban game. No license specified.
+
 
 
 ## Other Lists
