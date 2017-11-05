@@ -33,12 +33,14 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
 - [Collen](https://github.com/Shinmera/colleen) - Common Lisp IRC bot with a modular framework.
 - [Kindista](https://github.com/kindista/kindista) - A social network for local sharing. [AGPL3]
 - [Lisp-chat](https://github.com/ryukinix/lisp-chat) - An experimental minimal chat. [MIT].
+- [Lichat](https://shirakumo.github.io/maiden/clients/lichat/) - Lichat client for Maiden. [Artistic License 2.0]
 - [Potato](https://github.com/cicakhq/potato) - Delicious conversations platform in Common Lisp and ClojureScript.
 - [WeirdIRC](https://sourceforge.net/projects/weird-irc/) - Widely portable IRC-Client. [LGPL].
 
 #### Chat Bot
 
 - [Lisp-paste](https://github.com/stassats/lisp-bots) - Bots from #lisp. [MIT].
+- [Magitek](https://github.com/sjl/magitek) - Whimsical robots infused with just a hint of magic. No license specified.
 
 ### Development Tools
 
