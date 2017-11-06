@@ -50,6 +50,7 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
 
 #### Databases
 
+- [AllegroGraph](https://franz.com/agraph/allegrograph/) - A modern, high-performance, persistent graph database.
 - [LambdaLite](https://github.com/Wukix/LambdaLite) - A functional, relational database in about 250 lines of Common Lisp. [MIT].
 - [Pgchart](https://github.com/dimitri/pgcharts) - A self-contained web application that takes as input an SQL query text and outputs its data as a chart.
 - [Pgloader](https://github.com/dimitri/pgloader/) - A data loading tool for PostgreSQL. Re-written from Python for a 30x speed gain ([blog post](http://tapoueh.org/blog/2014/05/14-pgloader-got-faster.html)).
@@ -78,12 +79,14 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 ### Education
 
 - [ACL2](https://github.com/acl2/acl2) - A theorem proving environment. [3-clause BSD].
+- [Axiom](https://github.com/daly/axiom) -  Axiom is a free, open source computer algebra system. 
 - [BioBike](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2703918/) - Fully programmable research environment and biological knowledge base.
 - [Biochat](https://github.com/Bohdan-Khomtchouk/Biochat) - Where biological datasets learn to talk to each other. [MIT].
 - [Clnuplot](https://github.com/gwkkwg/clnuplot) - GNUplot in Common Lisp. [MIT].
 - [Geiriadur](http://www.cymraeg.ru/geiriadur/disgrifiad-2.html) - Dictionary lookup engine and a dictionary editing system. No license specified.
 - [Maxima](https://sourceforge.net/projects/maxima/files/) - Computer Algebra System written in Common Lisp. [GPL2].
 - [Mandelbrot set explorer](http://weitz.de/mandelbrot/) - Mandelbrot set explorer. [Proprietary]
+- [PVS](https://github.com/SRI-CSL/PVS) - The People's Verification System . [GPL2].
 - [Sparser](https://github.com/ddmcdonald/sparser) - A natural language understanding system for English, [No License Specified].
 - [Weyl](https://github.com/OdonataResearchLLC/weyl) - Computer algebra substrate from Cornell University. [No License Specified].
 - [Yotta-zoomer](http://repo.or.cz/w/yotta-zoomer.git) - Deep Fractal Zoomer. No license specified.
@@ -146,6 +149,7 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 - [McPixel](https://github.com/ahefner/McPixel) - A toy Lisp program for drawing and animating pixel art.  No license specified.
 - [Mirai](http://www.izware.com/mirai) - 3D editor built on the winged-edge data structure. [Proprietary].
 - [Parasol](https://github.com/Shinmera/parasol) -  A Common Lisp painting application.
+- [PTC's 3d designer](https://www.ptc.com/en/products/cad/3d-design) - 3D Design Software. [Proprietary].
 - [Sketch](https://github.com/vydd/sketch) -A Common Lisp framework for the creation of electronic art, visual design, game prototyping, game making, computer graphics, exploration of human-computer interaction, and more. 
 - [Snek](https://github.com/inconvergent/snek) - An experimental system for writing generative systems.
 - [Stektcheroo](https://github.com/xach/sketcheroo) - 2D drawing and layout. 
@@ -215,7 +219,13 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 - [DART](https://en.wikipedia.org/wiki/Dynamic_Analysis_and_Replanning_Tool) - Application to optimize and schedule the transportation of supplies or personnel and solve other logistical problems.
 - [ICAD](https://en.wikipedia.org/wiki/ICAD_(software)) - A knowledge-based CAD system.
- 
+- [Interleaf Publisher](https://en.wikipedia.org/wiki/Interleaf) - A document processor.
+- [Itasca database][Expat] - Database.
+- [Metal](https://en.wikipedia.org/wiki/METAL_MT) - Siemens machine translation system.
+- [Sk8](https://en.wikipedia.org/wiki/SK8) - A multimedia authoring environment.
+- [Action!][Expat] - Expertelligence' Interface Designer.
+- Endless list.
+
 
 ## Mobile Applications
 
@@ -264,6 +274,7 @@ Thanks to All of Github contributors and Everyone @ reddit.com/r/lisp for many s
 ## Note
 
 - You can learn about licenses in [tl;drLegal](https://tldrlegal.com/)
+- There are so many Applications buit with Lisp, but most of them are more than 20 years old, this [list will be endless](https://www.reddit.com/r/lisp/comments/77tgpl/awesome_common_lisp_application_software/doprwez/) as Rainer Joswig said, so here I wil only maintain the relevant application.
 
 ## Credit
 
