@@ -274,7 +274,7 @@ Thanks to All of Github contributors and Everyone @ reddit.com/r/lisp for many s
 ## Note
 
 - You can learn about licenses in [tl;drLegal](https://tldrlegal.com/)
-- There are so many Applications buit with Lisp, but most of them are more than 20 years old, this [list will be endless](https://www.reddit.com/r/lisp/comments/77tgpl/awesome_common_lisp_application_software/doprwez/) as Rainer Joswig said, so here I wil only maintain the relevant application.
+- There are so many Applications buit with Lisp, but most of them are more than 20 years old, this [list will be endless](https://www.reddit.com/r/lisp/comments/77tgpl/awesome_common_lisp_application_software/doprwez/) as Rainer Joswig said, so here I wil only include the relevant application.
 
 ## Credit
 
