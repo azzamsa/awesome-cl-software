@@ -135,8 +135,9 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 - [Breakout](https://github.com/sebity/breakout) - A Remake of the Classic Game Breakout. [GPL2].
 - [Climon](https://github.com/nlamirault/climon) - A Simon game written in Common Lisp. [MIT].
 - [Cl-dino](https://github.com/VitoVan/cl-dino) - A Chrome Dinosaur Robot. [GPL3].
-- [Final-hours](https://github.com/sebity/final-hours) - A Remake of the Classic Game Missile Command. [GPL2].
 - [Common-worm](https://github.com/zkat/common-worm) - A simple, hackish version of the classic snake game. No license specified.
+- [Final-hours](https://github.com/sebity/final-hours) - A Remake of the Classic Game Missile Command. [GPL2].
+- [Notalone](https://github.com/borodust/notalone) - You wake up nowhere in the night. Hungry zombies around, but your ol' pal "BOOMSTICK" is with you. [GPL3]
 - [Snake](https://github.com/sebity/snake) - A Remake of the Classic Game Snake. [GPL2].
 - [Starwar](https://github.com/xzpeter/starwar) - Starwar. [No License Specified].
 - [The-invaders](https://github.com/sebity/the-invaders) - A remake of the classic game Space Invader. [GPL2].
