@@ -45,15 +45,17 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
 ### Development Tools
 
 - [Cepl](https://github.com/cbaggers/cepl) - Code Evaluate Play Loop. [2-clause BSD].
-- [Sbcl-shell](https://github.com/dbjergaard/sbcl-shell) - A command shell. [No License Specified].
 - [Nix-lisp](https://github.com/ebzzry/nix-lisp) - A simple Nixpkgs and NixOS helper. [No License Specified].
+- [Sbcl-shell](https://github.com/dbjergaard/sbcl-shell) - A command shell. [No License Specified].
+- [Sluglisp](https://github.com/ahungry/sluglisp) - Like Quicklisp, only slower (a web GUI based Quicklisp for searching the projects). [No License Specified]
+- [Quickdocs](http://quickdocs.org/) - Ready and Up-to-Date Documentation for All Common Lisp Projects. [No License Specified]
 
 #### Databases
 
 - [AllegroGraph](https://franz.com/agraph/allegrograph/) - A modern, high-performance, persistent graph database.
 - [LambdaLite](https://github.com/Wukix/LambdaLite) - A functional, relational database in about 250 lines of Common Lisp. [MIT].
-- [Pgchart](https://github.com/dimitri/pgcharts) - A self-contained web application that takes as input an SQL query text and outputs its data as a chart.
-- [Pgloader](https://github.com/dimitri/pgloader/) - A data loading tool for PostgreSQL. Re-written from Python for a 30x speed gain ([blog post](http://tapoueh.org/blog/2014/05/14-pgloader-got-faster.html)).
+- [Pgchart](https://github.com/dimitri/pgcharts) - A self-contained web application that takes as input an SQL query text and outputs its data as a chart. [No License Specified]
+- [Pgloader](https://github.com/dimitri/pgloader/) - Migrate to PostgreSQL in a single command!. [PostgreSQL License]
 
 #### IDE
 
@@ -298,3 +300,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 [2-clause BSD]:https://opensource.org/licenses/bsd-license.php
 [MIT]:https://opensource.org/licenses/MIT
 [Proprietary]:https://en.wikipedia.org/wiki/Proprietary_software
+[PostgreSQL License]:https://www.postgresql.org/about/licence/
