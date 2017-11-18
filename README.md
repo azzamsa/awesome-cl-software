@@ -44,7 +44,11 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
 
 ### Development Tools
 
+- [Asdf-viz](https://github.com/guicho271828/asdf-viz) - ASDF system dependency visualizer. [LLGPL].
 - [Cepl](https://github.com/cbaggers/cepl) - Code Evaluate Play Loop. [2-clause BSD].
+- [Dirtylogman](https://github.com/guicho271828/dirtylogman) -  Command line tool for reading lots of log files. [LLGPL]
+- [Eazy-project](https://github.com/guicho271828/eazy-project) - Boost your development!. [No License Specified].
+- [Lake](https://github.com/takagi/lake) - Lake is a GNU make like build utility in Common Lisp. [MIT].
 - [Nix-lisp](https://github.com/ebzzry/nix-lisp) - A simple Nixpkgs and NixOS helper. [No License Specified].
 - [Sbcl-shell](https://github.com/dbjergaard/sbcl-shell) - A command shell. [No License Specified].
 - [Sluglisp](https://github.com/ahungry/sluglisp) - Like Quicklisp, only slower (a web GUI based Quicklisp for searching the projects). [No License Specified]
@@ -189,6 +193,11 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 - [Grammarly](https://www.grammarly.com/) - Grammar checking. [Proprietary].
 - [Projectured](https://github.com/projectured/projectured) -  ProjecturEd is a generic purpose projectional editor. [No License Specified].
 
+### Utilities
+
+- [Mediaimport](https://github.com/fourier/mediaimport) - Import media files (jpgs/movies) from cameras. [No License Specified].
+
+
 
 ### Video
 #### Video Player
@@ -303,3 +312,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 [MIT]:https://opensource.org/licenses/MIT
 [Proprietary]:https://en.wikipedia.org/wiki/Proprietary_software
 [PostgreSQL License]:https://www.postgresql.org/about/licence/
+[LLGPL]:https://tldrlegal.com/license/lisp-lesser-general-public-license
