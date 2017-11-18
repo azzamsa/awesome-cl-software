@@ -213,6 +213,7 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 - [Matrix Airfare Search](http://matrix.itasoftware.com/) - low-fare search engine. [Proprietary].
 - [Missile Defense](http://www.raytheon.com/) - Missile Defense at Raytheon. [Proprietary].
 - [Piano](Piano) - A complete aircraft analysis suite. [Proprietary].
+- [Pocket Change](https://www.pocket-change.jp/en/) - Converts leftover coins and bills to electronic money, gift codes, and coupons of your choice. [post](https://www.slideshare.net/fukamachi/building-gui-app-with-electron-and-lisp). [Proprietary].
 - [Routific](https://routific.com/) - Route optimization and fleet management. [Proprietary].
 - [Sandfall](https://github.com/gingeralesy/sandfall) - Falling sands simulator.
 - [Tv-series-status](https://github.com/OlafMerkert/tv-series-status) - Check the web for the next episodes of TV series and find new episodes at a glance. No license specified.
