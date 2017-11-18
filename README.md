@@ -7,6 +7,58 @@
 this is a list of awesome [application software](https://en.wikipedia.org/wiki/Application_software) built with Common Lisp.
 
 
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
+**Table of Contents**
+
+- [Awesome Common Lisp Application Software](#awesome-common-lisp-application-software)
+    - [Applications](#applications)
+        - [Audio](#audio)
+        - [Blogging](#blogging)
+            - [Static Blog Generator](#static-blog-generator)
+        - [Chat](#chat)
+            - [Chat Bot](#chat-bot)
+        - [Development Tools](#development-tools)
+            - [Databases](#databases)
+            - [IDE](#ide)
+        - [Desktop Environment](#desktop-environment)
+        - [Editors](#editors)
+        - [Education](#education)
+        - [Email](#email)
+        - [File Manager](#file-manager)
+        - [Games](#games)
+            - [City Building Simulation](#city-building-simulation)
+            - [FPS](#fps)
+            - [RTS](#rts)
+            - [Turn Based Strategy](#turn-based-strategy)
+            - [RPG](#rpg)
+            - [Miscellaneous](#miscellaneous)
+        - [Graphics](#graphics)
+            - [Image Creation](#image-creation)
+            - [Image Viewer](#image-viewer)
+        - [Health](#health)
+        - [Internet](#internet)
+            - [Browser](#browser)
+        - [Operating System](#operating-system)
+        - [Productivity](#productivity)
+        - [Utilities](#utilities)
+        - [Video](#video)
+            - [Video Player](#video-player)
+        - [Wiki software](#wiki-software)
+        - [Window Manager](#window-manager)
+        - [Other](#other)
+            - [Historical Purposes](#historical-purposes)
+    - [Mobile Applications](#mobile-applications)
+    - [Other Lists](#other-lists)
+    - [Contributors](#contributors)
+    - [Guidelines to contribute](#guidelines-to-contribute)
+    - [Unsure how to contribute?](#unsure-how-to-contribute)
+    - [Note](#note)
+    - [Credit](#credit)
+    - [License](#license)
+
+<!-- markdown-toc end -->
+
+
 ## Applications
 
 ### Audio
