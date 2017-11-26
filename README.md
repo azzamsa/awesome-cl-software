@@ -102,6 +102,7 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
 - [Eazy-project](https://github.com/guicho271828/eazy-project) - Boost your development!. [No License Specified].
 - [Lake](https://github.com/takagi/lake) - Lake is a GNU make like build utility in Common Lisp. [MIT].
 - [Nix-lisp](https://github.com/ebzzry/nix-lisp) - A simple Nixpkgs and NixOS helper. [No License Specified].
+- [Seed](https://github.com/phantomics/seed) - Interactive software environment based on Common Lisp. [GPL3].
 - [Sbcl-shell](https://github.com/dbjergaard/sbcl-shell) - A command shell. [No License Specified].
 - [Sluglisp](https://github.com/ahungry/sluglisp) - Like Quicklisp, only slower (a web GUI based Quicklisp for searching the projects). [No License Specified].
 - [Quickdocs](http://quickdocs.org/) - Ready and Up-to-Date Documentation for All Common Lisp Projects. [No License Specified].
@@ -242,8 +243,9 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 ### Productivity
 
-- [Cl-Markdown](https://github.com/gwkkwg/cl-markdown) - A Common Lisp rewrite of Markdown.[MIT].
+- [Cl-Markdown](https://github.com/gwkkwg/cl-markdown) - A Common Lisp rewrite of Markdown. [MIT].
 - [Grammarly](https://www.grammarly.com/) - Grammar checking. [Proprietary].
+- [Ichiran](https://github.com/tshatrov/ichiran) - Linguistic tools for texts in Japanese language. [MIT].
 - [Projectured](https://github.com/projectured/projectured) -  ProjecturEd is a generic purpose projectional editor. [No License Specified].
 
 ### Utilities
