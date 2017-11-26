@@ -91,6 +91,7 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
 
 #### Chat Bot
 
+- [Alice](https://github.com/TeMPOraL/alice) - Alice Margatroid, a dollmaster that pretends not to be a doll itself. [No license Specified].
 - [Lisp-paste](https://github.com/stassats/lisp-bots) - Bots from #lisp. [MIT].
 - [Magitek](https://github.com/sjl/magitek) - Whimsical robots infused with just a hint of magic. No license specified.
 
