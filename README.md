@@ -106,6 +106,7 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
 - [Seed](https://github.com/phantomics/seed) - Interactive software environment based on Common Lisp. [GPL3].
 - [Sbcl-shell](https://github.com/dbjergaard/sbcl-shell) - A command shell. [No License Specified].
 - [Sluglisp](https://github.com/ahungry/sluglisp) - Like Quicklisp, only slower (a web GUI based Quicklisp for searching the projects). [No License Specified].
+- [prometheus.cl](https://github.com/deadtrickster/prometheus.cl) - Prometheus.io Common Lisp client. [MIT].
 - [Quickdocs](http://quickdocs.org/) - Ready and Up-to-Date Documentation for All Common Lisp Projects. [No License Specified].
 - [Quickutil](https://github.com/tarballs-are-good/quickutil) - The solution to the Utility Library problem. [No License Specified].
 
