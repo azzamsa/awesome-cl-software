@@ -80,8 +80,8 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
 ### Chat
 
 - [Beirc](https://github.com/MrNeutron/beirc) - A clim-based IRC client. No license specified.
-- [Chatter](https://github.com/Shinmera/chatter) - A chat client based on Twitter DMs. 
-- [Climc](https://github.com/nlamirault/climc) - A Common Lisp Instant Messaging Client. 
+- [Chatter](https://github.com/Shinmera/chatter) - A chat client based on Twitter DMs.
+- [Climc](https://github.com/nlamirault/climc) - A Common Lisp Instant Messaging Client.
 - [Collen](https://github.com/Shinmera/colleen) - Common Lisp IRC bot with a modular framework.
 - [Kindista](https://github.com/kindista/kindista) - A social network for local sharing. [AGPL3]
 - [Lisp-chat](https://github.com/ryukinix/lisp-chat) - An experimental minimal chat. [MIT].
@@ -103,8 +103,9 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
 - [Lake](https://github.com/takagi/lake) - Lake is a GNU make like build utility in Common Lisp. [MIT].
 - [Nix-lisp](https://github.com/ebzzry/nix-lisp) - A simple Nixpkgs and NixOS helper. [No License Specified].
 - [Sbcl-shell](https://github.com/dbjergaard/sbcl-shell) - A command shell. [No License Specified].
-- [Sluglisp](https://github.com/ahungry/sluglisp) - Like Quicklisp, only slower (a web GUI based Quicklisp for searching the projects). [No License Specified]
-- [Quickdocs](http://quickdocs.org/) - Ready and Up-to-Date Documentation for All Common Lisp Projects. [No License Specified]
+- [Sluglisp](https://github.com/ahungry/sluglisp) - Like Quicklisp, only slower (a web GUI based Quicklisp for searching the projects). [No License Specified].
+- [Quickdocs](http://quickdocs.org/) - Ready and Up-to-Date Documentation for All Common Lisp Projects. [No License Specified].
+- [Quickutil](https://github.com/tarballs-are-good/quickutil) - The solution to the Utility Library problem. [No License Specified].
 
 #### Databases
 
@@ -137,7 +138,7 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 ### Education
 
 - [ACL2](https://github.com/acl2/acl2) - A theorem proving environment. [3-clause BSD].
-- [Axiom](https://github.com/daly/axiom) -  Axiom is a free, open source computer algebra system. 
+- [Axiom](https://github.com/daly/axiom) -  Axiom is a free, open source computer algebra system.
 - [BioBike](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2703918/) - Fully programmable research environment and biological knowledge base.
 - [Biochat](https://github.com/Bohdan-Khomtchouk/Biochat) - Where biological datasets learn to talk to each other. [MIT].
 - [Clnuplot](https://github.com/gwkkwg/clnuplot) - GNUplot in Common Lisp. [MIT].
@@ -154,7 +155,7 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 ### File Manager
 
-- [FTD](https://github.com/gabriel-laddel/flexi-trivial-dired.git) - The Flexi-Trivial Dired. No license specified. 
+- [FTD](https://github.com/gabriel-laddel/flexi-trivial-dired.git) - The Flexi-Trivial Dired. No license specified.
 - [Filer](https://github.com/froggey/Mezzano) - Mezzano File Manager.
 
 ### Games
@@ -209,15 +210,15 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 - [Mirai](http://www.izware.com/mirai) - 3D editor built on the winged-edge data structure. [Proprietary].
 - [Parasol](https://github.com/Shinmera/parasol) -  A Common Lisp painting application.
 - [PTC's 3d designer](https://www.ptc.com/en/products/cad/3d-design) - 3D Design Software. [Proprietary].
-- [Sketch](https://github.com/vydd/sketch) -A Common Lisp framework for the creation of electronic art, visual design, game prototyping, game making, computer graphics, exploration of human-computer interaction, and more. 
+- [Sketch](https://github.com/vydd/sketch) -A Common Lisp framework for the creation of electronic art, visual design, game prototyping, game making, computer graphics, exploration of human-computer interaction, and more.
 - [Snek](https://github.com/inconvergent/snek) - An experimental system for writing generative systems.
-- [Stektcheroo](https://github.com/xach/sketcheroo) - 2D drawing and layout. 
+- [Stektcheroo](https://github.com/xach/sketcheroo) - 2D drawing and layout.
 - [Wigflip](http://wigflip.com/) - image playground.
 
 
 #### Image Viewer
 
-- [Halftone](https://github.com/Shinmera/halftone) - A simple image viewer in Common Lisp. 
+- [Halftone](https://github.com/Shinmera/halftone) - A simple image viewer in Common Lisp.
 - [Spectacle](https://github.com/slyrus/spectacle) - A CLIM application for viewing opticl images. [2-clause BSD](https://directory.fsf.org/wiki/License:BSD_2Clause).
 
 ### Health
@@ -230,7 +231,7 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 - [Closure](https://github.com/dym/closure) - a web browser implemented in Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 - [Lispkit](https://github.com/AeroNotix/lispkit) - A lisp web browser using WebKit. [2-clause BSD].
-- [nEXT](https://github.com/nEXT-Browser/nEXT) -  nEXT - The fastest productivity web-browser. 
+- [nEXT](https://github.com/nEXT-Browser/nEXT) -  nEXT - The fastest productivity web-browser.
 
 
 ### Operating System
