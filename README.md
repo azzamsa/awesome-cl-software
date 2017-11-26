@@ -98,6 +98,7 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
 
 - [Asdf-viz](https://github.com/guicho271828/asdf-viz) - ASDF system dependency visualizer. [LLGPL].
 - [Cepl](https://github.com/cbaggers/cepl) - Code Evaluate Play Loop. [2-clause BSD].
+- [Cl-bunny](https://github.com/cl-rabbit/cl-bunny) - Common Lisp RabbitMQ client based on IOLib.
 - [Dirtylogman](https://github.com/guicho271828/dirtylogman) -  Command line tool for reading lots of log files. [LLGPL]
 - [Eazy-project](https://github.com/guicho271828/eazy-project) - Boost your development!. [No License Specified].
 - [Lake](https://github.com/takagi/lake) - Lake is a GNU make like build utility in Common Lisp. [MIT].
