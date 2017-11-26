@@ -253,6 +253,7 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 ### Utilities
 
+- [Hju](https://github.com/TeMPOraL/hju) -  Simple command line (CLI) controller for Hue lights. [MIT].
 - [Mediaimport](https://github.com/fourier/mediaimport) - Import media files (jpgs/movies) from cameras. [No License Specified].
 
 
