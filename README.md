@@ -252,7 +252,7 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 - [Grammarly](https://www.grammarly.com/) - Grammar checking. [Proprietary].
 - [Ichiran](https://github.com/tshatrov/ichiran) - Linguistic tools for texts in Japanese language. [MIT].
 - [Projectured](https://github.com/projectured/projectured) -  ProjecturEd is a generic purpose projectional editor. [No License Specified].
-- [Turtl](https://github.com/turtl/api) - a secure note taking, bookmarking and document storage app. AGPL. 
+- [Turtl](https://github.com/turtl/api) - a secure note taking, bookmarking and document storage app. AGPL.
 
 ### Utilities
 
@@ -332,12 +332,15 @@ Thanks to All of Github contributors and Everyone @ reddit.com/r/lisp for many s
 
 ## Guidelines to contribute
 
-> Simply put the name of the **application** in the list.
-> Link to its **homepage** or a **guide** on how to install it.
-> Also write a **short description** for the application .
-> Make sure it is put under the **appropriate topic**.
-> If the application doesn't fit in any **existing topic**, make a **new one** for it.
-> Ensure everything is **alphabetically sorted**.
+Please follow this format of the list  `[Appname](#link) - description. [License].`
+if you want to make a contribution.
+
+- Put the name of the **application** and **link** to its **homepage** in the list.
+- Write a **short description** for the application.
+- Add a **license** in the end of the list. *see the list format above*
+- Make sure it is put under the **appropriate topic**.
+- If the application doesn't fit in any **existing topic**, make a **new one** for it.
+- Ensure everything is **alphabetically sorted**.
 
 ## Unsure how to contribute?
 
