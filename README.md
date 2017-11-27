@@ -252,6 +252,7 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 - [Grammarly](https://www.grammarly.com/) - Grammar checking. [Proprietary].
 - [Ichiran](https://github.com/tshatrov/ichiran) - Linguistic tools for texts in Japanese language. [MIT].
 - [Projectured](https://github.com/projectured/projectured) -  ProjecturEd is a generic purpose projectional editor. [No License Specified].
+- [Turtl](https://github.com/turtl/api) - a secure note taking, bookmarking and document storage app. AGPL. 
 
 ### Utilities
 
