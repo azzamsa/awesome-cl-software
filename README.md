@@ -71,6 +71,7 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
 
 ### Blogging
 
+- [Cliki2](https://github.com/vsedach/cliki2) - The wiki software behind cliki.net [AGPL3]
 - [Ext-blog](https://github.com/kevinlynx/ext-blog) - blog engine. It supports custom theme and you can port a WordPress theme for it. [No License Specified].
 
 #### Static Blog Generator
