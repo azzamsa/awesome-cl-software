@@ -135,10 +135,11 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 ### Editors
 
 - [Able](https://common-lisp.net/project/able/) - A Basic Lisp Editor. [MIT].
-- [Alpaca](https://github.com/mikelevins/alpaca) - The Alpaca programmable editor. No license specified.
+- [Alpaca](https://github.com/mikelevins/alpaca) - The Alpaca programmable editor. [No license specified].
 - [Climacs](https://common-lisp.net/project/climacs/) - An Emacs-like editor in Common Lisp. [LGPL].
 - [Hemlock](https://github.com/bluelisp/hemlock) -  Portable version of the Hemlock editor. [No Licence Specified].
-- [MarkEdit](https://github.com/ceramic/markedit/) - Markdown editor and previewer built with Ceramic. No license specified.
+- [MarkEdit](https://github.com/ceramic/markedit/) - Markdown editor and previewer built with Ceramic. [No license specified].
+- [Magic-ed](https://github.com/sanel/magic-ed) -  Editing facility for Common Lisp REPL. [].
 - [Med](https://github.com/burtonsamograd/med) - Emacs-like text editor for the Mezzano operating system. [MIT].
 
 ### Education
@@ -283,8 +284,9 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 - [Hiper](http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/reasonng/atp/systems/hiper/0.html) - Term rewriting E-completion system. No license specified.
 - [Matrix Airfare Search](http://matrix.itasoftware.com/) - low-fare search engine. [Proprietary].
 - [Missile Defense](http://www.raytheon.com/) - Missile Defense at Raytheon. [Proprietary].
+- [Movie box office charts](https://www.xach.com/moviecharts/) - Display box office data graphically. [No License Specified].
 - [Piano](Piano) - A complete aircraft analysis suite. [Proprietary].
-- [Pocket Change](https://www.pocket-change.jp/en/) - Converts leftover coins and bills to electronic money, gift codes, and coupons of your choice. [post](https://www.slideshare.net/fukamachi/building-gui-app-with-electron-and-lisp). [Proprietary].
+- [Pocket Change](https://www.pocket-change.jp/en/) - Converts leftover coins and bills to electronic money, gift codes, and coupons of your choice. [Proprietary].
 - [Routific](https://routific.com/) - Route optimization and fleet management. [Proprietary].
 - [Sandfall](https://github.com/gingeralesy/sandfall) - Falling sands simulator.
 - [Tv-series-status](https://github.com/OlafMerkert/tv-series-status) - Check the web for the next episodes of TV series and find new episodes at a glance. No license specified.
