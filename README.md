@@ -285,6 +285,7 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 - [Matrix Airfare Search](http://matrix.itasoftware.com/) - low-fare search engine. [Proprietary].
 - [Missile Defense](http://www.raytheon.com/) - Missile Defense at Raytheon. [Proprietary].
 - [Movie box office charts](https://www.xach.com/moviecharts/) - Display box office data graphically. [No License Specified].
+- [Orbitz](https://www.orbitz.com/) -  Travel fare aggregator website and travel metasearch engine. [Proprietary].
 - [Piano](Piano) - A complete aircraft analysis suite. [Proprietary].
 - [Pocket Change](https://www.pocket-change.jp/en/) - Converts leftover coins and bills to electronic money, gift codes, and coupons of your choice. [Proprietary].
 - [Routific](https://routific.com/) - Route optimization and fleet management. [Proprietary].
@@ -320,6 +321,7 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
   - [Application](http://cliki.net/application) - Stand-alone applications written in Common Lisp
 - [Common Lisp games](https://github.com/lispgames/lispgames.github.io/wiki/Common-Lisp)
   - [Lisp Game Jams](https://github.com/lispgames/lispgames.github.io/wiki/Lisp-Game-Jams)
+- [Lisp Companies](http://pchristensen.com/blog/lisp-companies/) - by Peter Christensen.
 - [Lisp-lang Success Stories](http://lisp-lang.org/success/)
 - [LispWorks Success Stories  ](http://www.lispworks.com/success-stories/index.html)
 - [Paul Graham - Applications](http://www.paulgraham.com/apps.html)
