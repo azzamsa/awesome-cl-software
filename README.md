@@ -139,8 +139,9 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 - [Climacs](https://common-lisp.net/project/climacs/) - An Emacs-like editor in Common Lisp. [LGPL].
 - [Hemlock](https://github.com/bluelisp/hemlock) -  Portable version of the Hemlock editor. [No Licence Specified].
 - [MarkEdit](https://github.com/ceramic/markedit/) - Markdown editor and previewer built with Ceramic. [No license specified].
-- [Magic-ed](https://github.com/sanel/magic-ed) -  Editing facility for Common Lisp REPL. [].
+- [Magic-ed](https://github.com/sanel/magic-ed) -  Editing facility for Common Lisp REPL.
 - [Med](https://github.com/burtonsamograd/med) - Emacs-like text editor for the Mezzano operating system. [MIT].
+- [Lem](https://github.com/cxxxr/lem) - Common Lisp editor/IDE with high expansibility. [MIT].
 
 ### Education
 
@@ -325,7 +326,6 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 - [Lisp-lang Success Stories](http://lisp-lang.org/success/)
 - [LispWorks Success Stories  ](http://www.lispworks.com/success-stories/index.html)
 - [Paul Graham - Applications](http://www.paulgraham.com/apps.html)
-- [Peter Christensen - Lisp Companies](http://pchristensen.com/blog/lisp-companies/)
 - [Wikipedia Common Lisp Software](https://en.wikipedia.org/wiki/Category:Common_Lisp_software)
 
 
