@@ -332,7 +332,7 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 ## Contributors
 
-Thanks to All of Github contributors and Everyone @ reddit.com/r/lisp for many suggestions and compliments.
+Thanks to All of Github contributors and Everyone @ reddit.com/r/lisp ad r/Common_Lisp/ for many suggestions and compliments.
 
 ## Guidelines to contribute
 
