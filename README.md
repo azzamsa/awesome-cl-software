@@ -245,7 +245,8 @@ See also [Closure](https://github.com/dym/closure) (using McClim) and [Lispkit](
 ### Operating System
 
 - [Mezzano](https://github.com/froggey/Mezzano) - An operating system written in Common Lisp
-- [Yalo](https://github.com/whily/yalo) - Lisp OS running on bare metal x86-64 hardware (WIP).
+
+See also [Yalo](https://github.com/whily/yalo).
 
 
 ### Productivity
