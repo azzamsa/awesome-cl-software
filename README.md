@@ -237,9 +237,9 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 ### Internet
 #### Browser
 
-- [Closure](https://github.com/dym/closure) - a web browser implemented in Common Lisp. [MIT](https://opensource.org/licenses/MIT).
-- [Lispkit](https://github.com/AeroNotix/lispkit) - A lisp web browser using WebKit. [2-clause BSD].
 - [nEXT](https://github.com/nEXT-Browser/nEXT) -  nEXT - The fastest productivity web-browser.
+
+See also [Closure](https://github.com/dym/closure) (using McClim) and [Lispkit](https://github.com/AeroNotix/lispkit) (using WebKit).
 
 
 ### Operating System
