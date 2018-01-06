@@ -84,7 +84,6 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
 - [Chatter](https://github.com/Shinmera/chatter) - A chat client based on Twitter DMs.
 - [Climc](https://github.com/nlamirault/climc) - A Common Lisp Instant Messaging Client.
 - [Collen](https://github.com/Shinmera/colleen) - Common Lisp IRC bot with a modular framework.
-- [Kindista](https://github.com/kindista/kindista) - A social network for local sharing. [AGPL3]
 - [Lisp-chat](https://github.com/ryukinix/lisp-chat) - An experimental minimal chat. [MIT].
 - [Lichat](https://shirakumo.github.io/maiden/clients/lichat/) - Lichat client for Maiden. [Artistic License 2.0]
 - [Potato](https://github.com/cicakhq/potato) - Delicious conversations platform in Common Lisp and ClojureScript.
@@ -98,6 +97,8 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
 
 ### Development Tools
 
+- [Quickdocs](http://quickdocs.org/) - Ready and Up-to-Date Documentation for All Common Lisp Projects. [No License Specified].
+- [Quickutil](https://github.com/tarballs-are-good/quickutil) - The solution to the Utility Library problem. [No License Specified].
 - [Asdf-viz](https://github.com/guicho271828/asdf-viz) - ASDF system dependency visualizer. [LLGPL].
 - [Cepl](https://github.com/cbaggers/cepl) - Code Evaluate Play Loop. [2-clause BSD].
 - [Cl-bunny](https://github.com/cl-rabbit/cl-bunny) - Common Lisp RabbitMQ client based on IOLib.
@@ -109,15 +110,14 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
 - [Sbcl-shell](https://github.com/dbjergaard/sbcl-shell) - A command shell. [No License Specified].
 - [Sluglisp](https://github.com/ahungry/sluglisp) - Like Quicklisp, only slower (a web GUI based Quicklisp for searching the projects). [No License Specified].
 - [prometheus.cl](https://github.com/deadtrickster/prometheus.cl) - Prometheus.io Common Lisp client. [MIT].
-- [Quickdocs](http://quickdocs.org/) - Ready and Up-to-Date Documentation for All Common Lisp Projects. [No License Specified].
-- [Quickutil](https://github.com/tarballs-are-good/quickutil) - The solution to the Utility Library problem. [No License Specified].
+
 
 #### Databases
 
-- [AllegroGraph](https://franz.com/agraph/allegrograph/) - A modern, high-performance, persistent graph database.
-- [LambdaLite](https://github.com/Wukix/LambdaLite) - A functional, relational database in about 250 lines of Common Lisp. [MIT].
 - [Pgchart](https://github.com/dimitri/pgcharts) - A self-contained web application that takes as input an SQL query text and outputs its data as a chart. [No License Specified]
 - [Pgloader](https://github.com/dimitri/pgloader/) - Migrate to PostgreSQL in a single command!. [PostgreSQL License]
+- [AllegroGraph](https://franz.com/agraph/allegrograph/) - A modern, high-performance, persistent graph database.
+- [LambdaLite](https://github.com/Wukix/LambdaLite) - A functional, relational database in about 250 lines of Common Lisp. [MIT].
 
 #### IDE
 
@@ -134,6 +134,7 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 ### Editors
 
+- [Lem](https://github.com/cxxxr/lem) - Common Lisp editor/IDE with high expansibility. [MIT].
 - [Able](https://common-lisp.net/project/able/) - A Basic Lisp Editor. [MIT].
 - [Alpaca](https://github.com/mikelevins/alpaca) - The Alpaca programmable editor. [No license specified].
 - [Climacs](https://common-lisp.net/project/climacs/) - An Emacs-like editor in Common Lisp. [LGPL].
@@ -141,7 +142,7 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 - [MarkEdit](https://github.com/ceramic/markedit/) - Markdown editor and previewer built with Ceramic. [No license specified].
 - [Magic-ed](https://github.com/sanel/magic-ed) -  Editing facility for Common Lisp REPL.
 - [Med](https://github.com/burtonsamograd/med) - Emacs-like text editor for the Mezzano operating system. [MIT].
-- [Lem](https://github.com/cxxxr/lem) - Common Lisp editor/IDE with high expansibility. [MIT].
+
 
 ### Education
 
@@ -212,16 +213,16 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 #### Image Creation
 
+- [Sketch](https://github.com/vydd/sketch) -A Common Lisp framework for the creation of electronic art, visual design, game prototyping, game making, computer graphics, exploration of human-computer interaction, and more.
+- [Wigflip](http://wigflip.com/) - image playground.
 - [Flow](https://github.com/Shinmera/flow) - Tools for the representation of graphs and flowcharts.
 - [kiga-wavesim](https://github.com/Shinmera/kiga-wavesim) - Simple wave simulator.
 - [McPixel](https://github.com/ahefner/McPixel) - A toy Lisp program for drawing and animating pixel art.  No license specified.
 - [Mirai](http://www.izware.com/mirai) - 3D editor built on the winged-edge data structure. [Proprietary].
 - [Parasol](https://github.com/Shinmera/parasol) -  A Common Lisp painting application.
 - [PTC's 3d designer](https://www.ptc.com/en/products/cad/3d-design) - 3D Design Software. [Proprietary].
-- [Sketch](https://github.com/vydd/sketch) -A Common Lisp framework for the creation of electronic art, visual design, game prototyping, game making, computer graphics, exploration of human-computer interaction, and more.
 - [Snek](https://github.com/inconvergent/snek) - An experimental system for writing generative systems.
 - [Stektcheroo](https://github.com/xach/sketcheroo) - 2D drawing and layout.
-- [Wigflip](http://wigflip.com/) - image playground.
 
 
 #### Image Viewer
@@ -251,11 +252,12 @@ See also [Yalo](https://github.com/whily/yalo).
 
 ### Productivity
 
-- [Cl-Markdown](https://github.com/gwkkwg/cl-markdown) - A Common Lisp rewrite of Markdown. [MIT].
 - [Grammarly](https://www.grammarly.com/) - Grammar checking. [Proprietary].
+- [Turtl](https://github.com/turtl/api) - a secure note taking, bookmarking and document storage app. AGPL.
+- [Cl-Markdown](https://github.com/gwkkwg/cl-markdown) - A Common Lisp rewrite of Markdown. [MIT].
 - [Ichiran](https://github.com/tshatrov/ichiran) - Linguistic tools for texts in Japanese language. [MIT].
 - [Projectured](https://github.com/projectured/projectured) -  ProjecturEd is a generic purpose projectional editor. [No License Specified].
-- [Turtl](https://github.com/turtl/api) - a secure note taking, bookmarking and document storage app. AGPL.
+
 
 ### Utilities
 
@@ -275,12 +277,13 @@ See also [Yalo](https://github.com/whily/yalo).
 
 ### Window Manager
 
-- [Eclipse](https://common-lisp.net/project/eclipse/index.shtml) - Eclipse, the Common Lisp window manager. No license specified.
 - [Stumpwm](https://github.com/stumpwm/stumpwm) - The Stump Window Manager.
+- [Eclipse](https://common-lisp.net/project/eclipse/index.shtml) - Eclipse, the Common Lisp window manager. No license specified.
 - [Paulownia](https://github.com/stumpwm/paulownia) - A modern re-write of stumpwm. [GPL2].
 
 ### Other
 
+- [Kindista](https://github.com/kindista/kindista) - A social network for local sharing. [AGPL3]
 - [Cyc](http://www.cyc.com/) - Build a database of heuristics. [Proprietary].
 - [Denso](https://github.com/start-jsk/denso) - A controller package suite for robots from Densowave based on open-industrial-ros-controllers. [No License Specified].
 - [Hiper](http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/reasonng/atp/systems/hiper/0.html) - Term rewriting E-completion system. No license specified.
