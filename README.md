@@ -261,6 +261,7 @@ See also [Yalo](https://github.com/whily/yalo).
 
 ### Utilities
 
+- [cl-ledger](https://github.com/ledger/cl-ledger) - a port of the double-entry accounting system. [3-clause BSD].
 - [Hju](https://github.com/TeMPOraL/hju) -  Simple command line (CLI) controller for Hue lights. [MIT].
 - [Mediaimport](https://github.com/fourier/mediaimport) - Import media files (jpgs/movies) from cameras. [No License Specified].
 
