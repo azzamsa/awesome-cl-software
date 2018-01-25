@@ -45,7 +45,7 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
             - [Video Player](#video-player)
         - [Wiki software](#wiki-software)
         - [Window Manager](#window-manager)
-        - [Machine Learning](#Machine-learning)
+        - [Machine Learning](#machine-learning)
         - [Other](#other)
             - [Historical Purposes](#historical-purposes)
     - [Mobile Applications](#mobile-applications)
