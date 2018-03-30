@@ -38,6 +38,7 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
         - [Health](#health)
         - [Internet](#internet)
             - [Browser](#browser)
+            - [Torrent](#torrent)
         - [Operating System](#operating-system)
         - [Productivity](#productivity)
         - [Utilities](#utilities)
@@ -236,11 +237,17 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 
 ### Internet
+
 #### Browser
 
 - [nEXT](https://github.com/nEXT-Browser/nEXT) -  nEXT - The fastest productivity web-browser.
 
 See also [Closure](https://github.com/dym/closure) (using McClim) and [Lispkit](https://github.com/AeroNotix/lispkit) (using WebKit).
+
+#### Torrent
+
+- [cl-torrents](https://github.com/vindarel/cl-torrents)
+  - a library and app with a command line and readline interface to search for torrents on popular trackers.
 
 
 ### Operating System
