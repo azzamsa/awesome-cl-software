@@ -246,8 +246,7 @@ See also [Closure](https://github.com/dym/closure) (using McClim) and [Lispkit](
 
 #### Torrent
 
-- [cl-torrents](https://github.com/vindarel/cl-torrents)
-  - a library and app with a command line and readline interface to search for torrents on popular trackers.
+- [cl-torrents](https://github.com/vindarel/cl-torrents) - a library and app with a command line and readline interface to search for torrents on popular trackers.
 
 
 ### Operating System
