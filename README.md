@@ -46,6 +46,7 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
             - [Video Player](#video-player)
         - [Wiki software](#wiki-software)
         - [Window Manager](#window-manager)
+        - [Machine Learning](#machine-learning)
         - [Other](#other)
             - [Historical Purposes](#historical-purposes)
     - [Mobile Applications](#mobile-applications)
@@ -287,6 +288,11 @@ See also [Yalo](https://github.com/whily/yalo).
 - [Stumpwm](https://github.com/stumpwm/stumpwm) - The Stump Window Manager.
 - [Eclipse](https://common-lisp.net/project/eclipse/index.shtml) - Eclipse, the Common Lisp window manager. No license specified.
 - [Paulownia](https://github.com/stumpwm/paulownia) - A modern re-write of stumpwm. [GPL2].
+
+### Machine Learning
+
+- [Push](http://faculty.hampshire.edu/lspector/push.html) - Evolutionary Computing with Push. [EPL1].
+- [Lush](http://lush.sourceforge.net/index.html) - An object-oriented programming language designed for researchers, experimenters, and engineers interested in large-scale numerical and graphic applications. [LGPL2].
 
 ### Other
 
