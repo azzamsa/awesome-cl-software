@@ -305,7 +305,7 @@ See also [Yalo](https://github.com/whily/yalo).
 - [Tv-series-status](https://github.com/OlafMerkert/tv-series-status) - Check the web for the next episodes of TV series and find new episodes at a glance. No license specified.
 - [Zen](https://github.com/pyb/zen) - The zen X server in Common Lisp. [GPL3].
 
-See also [Reddit v1 source code](https://github.com/reddit-archive/reddit1.0/) ([reddit](https://www.reddit.com/r/programming/comments/883vzs/old_reddit_source_code/)).
+See also [Reddit v1 source code](https://github.com/tamurashingo/reddit1.0/) ([reddit](https://www.reddit.com/r/programming/comments/883vzs/old_reddit_source_code/)).
 
 #### Historical Purposes
 
