@@ -41,6 +41,7 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
             - [Torrent](#torrent)
         - [Operating System](#operating-system)
         - [Productivity](#productivity)
+        - [Social news](#social-news)
         - [Utilities](#utilities)
         - [Video](#video)
             - [Video Player](#video-player)
@@ -265,6 +266,11 @@ See also [Yalo](https://github.com/whily/yalo).
 - [Projectured](https://github.com/projectured/projectured) -  ProjecturEd is a generic purpose projectional editor. [No License Specified].
 
 
+### Social news
+
+* [Reddit v1 source code](https://github.com/tamurashingo/reddit1.0/) ([reddit](https://www.reddit.com/r/programming/comments/883vzs/old_reddit_source_code/)). [Proprietary].
+
+
 ### Utilities
 
 - [cl-ledger](https://github.com/ledger/cl-ledger) - a port of the double-entry accounting system. [3-clause BSD].
@@ -304,8 +310,6 @@ See also [Yalo](https://github.com/whily/yalo).
 - [Sandfall](https://github.com/gingeralesy/sandfall) - Falling sands simulator.
 - [Tv-series-status](https://github.com/OlafMerkert/tv-series-status) - Check the web for the next episodes of TV series and find new episodes at a glance. No license specified.
 - [Zen](https://github.com/pyb/zen) - The zen X server in Common Lisp. [GPL3].
-
-See also [Reddit v1 source code](https://github.com/tamurashingo/reddit1.0/) ([reddit](https://www.reddit.com/r/programming/comments/883vzs/old_reddit_source_code/)).
 
 #### Historical Purposes
 
