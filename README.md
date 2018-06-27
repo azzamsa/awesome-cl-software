@@ -107,7 +107,7 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
 - [Dirtylogman](https://github.com/guicho271828/dirtylogman) -  Command line tool for reading lots of log files. [LLGPL]
 - [Eazy-project](https://github.com/guicho271828/eazy-project) - Boost your development!. [No License Specified].
 - [Lake](https://github.com/takagi/lake) - Lake is a GNU make like build utility in Common Lisp. [MIT].
-- [baf](https://github.com/ebzzry/baf) - A simple Nixpkgs and NixOS helper. [MIT].
+- [baf](https://github.com/ebzzry/baf) - A simple Nixpkgs and NixOS helper. [CC0].
 - [Seed](https://github.com/phantomics/seed) - Interactive software environment based on Common Lisp. [GPL3].
 - [Sbcl-shell](https://github.com/dbjergaard/sbcl-shell) - A command shell. [No License Specified].
 - [Sluglisp](https://github.com/ahungry/sluglisp) - Like Quicklisp, only slower (a web GUI based Quicklisp for searching the projects). [No License Specified].
@@ -400,3 +400,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 [Proprietary]:https://en.wikipedia.org/wiki/Proprietary_software
 [PostgreSQL License]:https://www.postgresql.org/about/licence/
 [LLGPL]:https://tldrlegal.com/license/lisp-lesser-general-public-license
+[CC0]:https://creativecommons.org/publicdomain/zero/1.0/
