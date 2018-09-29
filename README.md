@@ -335,6 +335,7 @@ See also [Yalo](https://github.com/whily/yalo).
 - [Allegro Common Lisp Success Stories ](https://franz.com/success/) - by Franc Inc
   - [Customer Application List](https://franz.com/success/all_customer_apps.lhtml)
 - [awesome-cl](https://github.com/CodyReichert/awesome-cl)
+- [Awesome Lisp Company](https://github.com/azzamsa/awesome-lisp-companies)
 - [Cliki](http://cliki.net/) -  CLiki the common lisp wiki
   - [Application](http://cliki.net/application) - Stand-alone applications written in Common Lisp
 - [Common Lisp games](https://github.com/lispgames/lispgames.github.io/wiki/Common-Lisp)
