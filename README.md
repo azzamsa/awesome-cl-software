@@ -39,6 +39,7 @@ this is a list of awesome [application software](https://en.wikipedia.org/wiki/A
         - [Internet](#internet)
             - [Browser](#browser)
             - [Torrent](#torrent)
+            - [RSS](#rss)
         - [Operating System](#operating-system)
         - [Productivity](#productivity)
         - [Social news](#social-news)
@@ -248,6 +249,10 @@ See also [Closure](https://github.com/dym/closure) (using McClim) and [Lispkit](
 #### Torrent
 
 - [cl-torrents](https://github.com/vindarel/cl-torrents) - a library and app with a command line and readline interface to search for torrents on popular trackers.
+
+#### RSS
+
+- [rssparser](https://bitbucket.org/tux_/rssparser.lisp) - A Web-to-RSS parser in Common Lisp for websites that don't have RSS feeds.
 
 
 ### Operating System
