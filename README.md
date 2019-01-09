@@ -6,7 +6,7 @@
 
 This is a list of awesome [application software](https://en.wikipedia.org/wiki/Application_software) built with Common Lisp.
 
-We want to keep the 'master' list curated. If you want to uncurated list, see [historical branch](https://github.com/azzamsa/awesome-cl-software/tree/historical).
+We want to keep the 'master' list curated. If you want to uncurated list, see [complete list branch](https://github.com/azzamsa/awesome-cl-software/tree/complete-list).
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents**
@@ -256,7 +256,7 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 - [Sk8](https://en.wikipedia.org/wiki/SK8) - A multimedia authoring environment.
 - [Action!][Expat] - Expertelligence' Interface Designer.
 - [PRISM](http://www.radonc.washington.edu/medinfo/prism/) - The Prism project is a long term project to build software tools for radiation therapy planning, including artificial intelligence tools as well as manual simulation systems.
-- Endless list. See [old branch](https://github.com/azzamsa/awesome-cl-software/tree/old)
+- Endless list. See [complete list branch](https://github.com/azzamsa/awesome-cl-software/tree/complete-list).
 
 
 ## Mobile Applications
