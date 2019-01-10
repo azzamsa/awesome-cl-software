@@ -78,7 +78,7 @@ We want to keep the 'master' list curated. If you want to uncurated list, see [c
 
 ### Chat
 
-- [Lisp-chat](https://github.com/ryukinix/lisp-chat) - An experimental minimal chat. [MIT.]
+- [Lisp-chat](https://github.com/ryukinix/lisp-chat) - An experimental minimal chat. [MIT].
 - [Potato](https://github.com/cicakhq/potato) - Delicious conversations platform in Common Lisp and ClojureScript.
 - [Collen](https://github.com/Shinmera/colleen) - Common Lisp IRC bot with a modular framework.
 - [Lichat](https://shirakumo.github.io/maiden/clients/lichat/) - Lichat client for Maiden. [Artistic License 2.0]
@@ -147,7 +147,7 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 ### Games
 
-- [sucle](https://github.com/terminal625/sucle) - A Minecraft clone (voxel game engine). [MIT][200].
+- [sucle](https://github.com/terminal625/sucle) - A Minecraft clone (voxel game engine). [MIT].
 - [CotD](https://github.com/gwathlobal/CotD) - A roguelike battle of Angels and Demons in the streets of a Human city. [GPL3].
 - [Jak and Daxter](https://en.wikipedia.org/wiki/Jak_and_Daxter) - Jak and Daxter. [Proprietary].
 - [Option-9](https://github.com/psilord/option-9) -  A Shoot'em Up Game. No license specified.
@@ -204,7 +204,8 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 ### Productivity
 
 - [Grammarly](https://www.grammarly.com/) - Grammar checking. [Proprietary].
-- [Turtl](https://github.com/turtl/api) - a secure note taking, bookmarking and document storage app. AGPL.
+- [Turtl](https://github.com/turtl/api) - a secure note taking, bookmarking and document storage app. [AGPL].
+- [Deftask](https://deftask.com/) - Painless task management for teams. [Partly Open Source].
 - [Ichiran](https://github.com/tshatrov/ichiran) - Linguistic tools for texts in Japanese language. [MIT].
 - [Projectured](https://github.com/projectured/projectured) -  ProjecturEd is a generic purpose projectional editor. [No License Specified].
 
