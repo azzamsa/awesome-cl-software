@@ -298,7 +298,7 @@ if you want to make a contribution.
 - Add a **license** in the end of the list. *see the list format above*
 - Make sure it is put under the **appropriate topic**.
 - If the application doesn't fit in any **existing topic**, make a **new one** for it.
-- Sort the item by it's popularity.
+- Sort the item by its **popularity**.
   - we come up with this approach since alphabetically sorted make people unnoticed which app has more active development and which app unmaintained or abandoned.
 
 ## Unsure how to contribute?
