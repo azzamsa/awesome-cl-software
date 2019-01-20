@@ -21,6 +21,7 @@ We want to keep the 'master' list curated. If you want to uncurated list, see [c
         - [Development Tools](#development-tools)
             - [Databases](#databases)
             - [IDE](#ide)
+            - [Others](#others)
         - [Desktop Environment](#desktop-environment)
         - [Editors](#editors)
         - [Education](#education)
@@ -117,6 +118,10 @@ We want to keep the 'master' list curated. If you want to uncurated list, see [c
 - [Sly](https://github.com/joaotavora/sly) - Sylvester the Cat's Common Lisp IDE (slime's fork)
 
 For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
+
+#### Others
+
+- [Regex-coach](http://weitz.de/regex-coach/) - a graphical application for Windows which can be used to experiment with (Perl-compatible) regular expressions interactively. Freeware.
 
 ### Desktop Environment
 
