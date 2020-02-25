@@ -67,6 +67,7 @@ We want to keep the 'master' list curated. If you want to uncurated list, see [c
 - [CLM](https://ccrma.stanford.edu/software/clm/) - Common Lisp Music is a music synthesis and signal processing package in the Music V family. It provides much the same functionality as Stk, Csound, SuperCollider, PD, CMix, cmusic, and Arctic — a collection of functions that create and manipulate sounds, aimed primarily at composers (in CLM's case anyway).
 - [Open Music](https://github.com/openmusic-project/OM6) - a visual programming, computer-aided composition environment. [GPL3][2].
 - [PWGL](http://www2.siba.fi/PWGL/) - A Visual Programming Language for Music and Sound.
+- [ScoreCloud](https://scorecloud.com/) - A web and mobile application to automatically create music notation from music performance or recordings. Built with LispWorks.
 
 ### Blogging
 
@@ -267,6 +268,7 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 ## Mobile Applications
 
+- [ScoreCloud Express](https://apps.apple.com/us/app/scorecloud-express/id566535238) - An iPhone and iPad application that automatically creates music notation from music performance or recordings.
 - [CL REPLay](https://gitlab.com/eql/EQL5-Android/tree/master/examples/REPL) - A REPL with simple editor. No license specified.
 - [Sokoban](https://gitlab.com/eql/EQL5-Android/tree/master/examples/sokoban) - Sokoban game. No license specified.
 
