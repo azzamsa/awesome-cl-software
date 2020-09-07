@@ -36,6 +36,7 @@ We want to keep the 'master' list curated. If you want to uncurated list, see [c
             - [RSS](#rss)
         - [Operating System](#operating-system)
         - [Productivity](#productivity)
+        - [Publishing](#publishing)
         - [Social news](#social-news)
         - [Utilities](#utilities)
         - [Video Player](#video-player)
@@ -214,6 +215,10 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 - [Deftask](https://deftask.com/) - Painless task management for teams. [Partly Open Source].
 - [Ichiran](https://github.com/tshatrov/ichiran) - Linguistic tools for texts in Japanese language. [MIT].
 - [Projectured](https://github.com/projectured/projectured) -  ProjecturEd is a generic purpose projectional editor. [No License Specified].
+
+### Publishing
+
+- [ABStock](https://github.com/vindarel/ABStock) - allows to publish an online catalogue of products. Primarily made for books.
 
 
 ### Social news
