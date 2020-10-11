@@ -132,7 +132,7 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 ### Editors
 
 - [Lem](https://github.com/cxxxr/lem) - Common Lisp editor/IDE with high expansibility. [MIT].
-- [Second Climacs](https://github.com/robert-strandh/Second-Climacs) - Version 2 of the Climacs text editor. .
+- [Second Climacs](https://github.com/robert-strandh/Second-Climacs) - Version 2 of the Climacs text editor.
 - [MarkEdit](https://github.com/ceramic/markedit/) - Markdown editor and previewer built with Ceramic. [No license specified].
 - [Med](https://github.com/burtonsamograd/med) - Emacs-like text editor for the Mezzano operating system. [MIT].
 - [Hemlock](https://github.com/bluelisp/hemlock) -  Portable version of the Hemlock editor. [No Licence Specified].
@@ -144,9 +144,9 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 - [Biochat](https://github.com/Bohdan-Khomtchouk/Biochat) - Where biological datasets learn to talk to each other. [MIT].
 - [Maxima](https://sourceforge.net/projects/maxima/files/) - Computer Algebra System written in Common Lisp. [GPL2].
 - [PVS](https://github.com/SRI-CSL/PVS) - The People's Verification System . [GPL2].
-- [Geiriadur](http://www.cymraeg.ru/geiriadur/disgrifiad-2.html) - Dictionary lookup engine and a dictionary editing system. No license specified.
-- [Sparser](https://github.com/ddmcdonald/sparser) - A natural language understanding system for English, [No License Specified].
-- [Weyl](https://github.com/OdonataResearchLLC/weyl) - Computer algebra substrate from Cornell University. [No License Specified].
+- [Geiriadur](http://www.cymraeg.ru/geiriadur/disgrifiad-2.html) - Dictionary lookup engine and a dictionary editing system. [No license specified].
+- [Sparser](https://github.com/ddmcdonald/sparser) - A natural language understanding system for English, [No license specified].
+- [Weyl](https://github.com/OdonataResearchLLC/weyl) - Computer algebra substrate from Cornell University. [No license specified].
 
 ### File Manager
 
@@ -173,7 +173,7 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 - [Sketch](https://github.com/vydd/sketch) -A Common Lisp framework for the creation of electronic art, visual design, game prototyping, game making, computer graphics, exploration of human-computer interaction, and more.
 - [Snek](https://github.com/inconvergent/snek) - An experimental system for writing generative systems.
-- [Parasol](https://github.com/Shinmera/parasol) -  A Common Lisp painting application.
+- [Parasol](https://github.com/Shinmera/parasol) - A Common Lisp painting application.
 - [Wigflip](http://wigflip.com/) - image playground.
 - [PTC's 3d designer](https://www.ptc.com/en/products/cad/3d-design) - 3D Design Software. [Proprietary].
 - [Mirai](http://www.izware.com/mirai) - 3D editor built on the winged-edge data structure. [Proprietary].
