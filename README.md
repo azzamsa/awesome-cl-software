@@ -145,7 +145,8 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 ### Education
 
 - [ACL2](https://github.com/acl2/acl2) - A theorem proving environment. [3-clause BSD].
-- [Axiom](https://github.com/daly/axiom) -  Axiom is a free, open source computer algebra system.
+- [Axiom](https://github.com/daly/axiom) -  Axiom is a free, open source computer algebra system. It is developed in its Spad language that compiles to Common Lisp.
+  - [FriCAS](https://github.com/fricas/fricas) is a fork, more maintained and easier to build. «The FriCAS algebra library is the largest and most advanced free general purpose computer algebra system».
 - [Biochat](https://github.com/Bohdan-Khomtchouk/Biochat) - Where biological datasets learn to talk to each other. [MIT].
 - [Maxima](https://sourceforge.net/projects/maxima/files/) - Computer Algebra System written in Common Lisp. [GPL2].
 - [PVS](https://github.com/SRI-CSL/PVS) - The People's Verification System . [GPL2].
