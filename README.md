@@ -106,7 +106,7 @@ We want to keep the 'master' list curated. If you want to uncurated list, see [c
 - [Asdf-viz](https://github.com/guicho271828/asdf-viz) - ASDF system dependency visualizer. [LLGPL].
 - [Cl-bunny](https://github.com/cl-rabbit/cl-bunny) - Common Lisp RabbitMQ client based on IOLib.
 - [Eazy-project](https://github.com/guicho271828/eazy-project) -  Interactive Project Generator & Manager. [No License Specified].
-- [baf](https://github.com/ebzzry/baf) - A simple Nixpkgs and NixOS helper. [CC0].
+- [barf](https://github.com/ebzzry/barf) - A simple Nixpkgs and NixOS helper. [CC0].
 - [Seed](https://github.com/phantomics/seed) - Interactive software environment based on Common Lisp. [GPL3].
 - [Sluglisp](https://github.com/ahungry/sluglisp) - Like Quicklisp, only slower (a web GUI based Quicklisp for searching the projects). [No License Specified].
 - [prometheus.cl](https://github.com/deadtrickster/prometheus.cl) - Prometheus.io Common Lisp client. [MIT].
