@@ -221,6 +221,7 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 - [Deftask](https://deftask.com/) - Painless task management for teams. [Partly Open Source].
 - [Ichiran](https://github.com/tshatrov/ichiran) - Linguistic tools for texts in Japanese language. [MIT].
 - [Projectured](https://github.com/projectured/projectured) -  ProjecturEd is a generic purpose projectional editor. [No License Specified].
+- [Ballish](https://ballish.margaine.com/) - A pretty fast code search tool. [GPL2].
 
 ### Publishing
 
