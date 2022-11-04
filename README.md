@@ -197,8 +197,11 @@ For more, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
 
 #### Browser
 
-- [Nyxt](https://github.com/atlas-engineer/nyxt) - The Internet on your terms. A keyboard-driven web browser designed for power users.
-- [Lispkit](https://github.com/AeroNotix/lispkit) - A lisp web browser using WebKit 
+- [Nyxt](https://github.com/atlas-engineer/nyxt/) - The fastest productivity web-browser.
+
+Deprecated:
+
+- [Lispkit](https://github.com/AeroNotix/lispkit) - A lisp web browser using WebKit
 
 #### Torrent
 
