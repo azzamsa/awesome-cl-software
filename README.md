@@ -79,8 +79,13 @@ A terminal application:
 
 ### Blogging
 
+- [HSSG](https://gitlab.com/HiPhish/cl-hssg) - the Hackable Static Site generator. [AGPL3]
 - [Cliki2](https://github.com/vsedach/cliki2) - The wiki software behind cliki.net [AGPL3]
 - [Ext-blog](https://github.com/kevinlynx/ext-blog) - blog engine. It supports custom theme and you can port a WordPress theme for it. [No License Specified].
+
+See also:
+
+- [Klipse](https://github.com/viebel/klipse) - written in ClojureScript, allows to include run-able code snippets, including Common Lisp.
 
 #### Static Blog Generator
 
