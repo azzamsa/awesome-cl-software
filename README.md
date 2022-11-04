@@ -94,9 +94,12 @@ See also:
 ### Chat
 
 - [Lisp-chat](https://github.com/ryukinix/lisp-chat) - An experimental minimal chat. [MIT].
-- [Potato](https://github.com/cicakhq/potato) - Delicious conversations platform in Common Lisp and ClojureScript.
 - [Collen](https://github.com/Shinmera/colleen) - Common Lisp IRC bot with a modular framework.
 - [Lichat](https://shirakumo.github.io/maiden/clients/lichat/) - Lichat client for Maiden. [Artistic License 2.0]
+
+See also:
+
+- [Potato](https://github.com/cicakhq/potato) - Delicious conversations platform in Common Lisp and ClojureScript.
 
 #### Chat Bot
 
