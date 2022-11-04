@@ -165,17 +165,26 @@ and also:
 
 ### Games
 
+- [Kandria](https://kandria.com/) - a post-apocalyptic exploratory 2D platformer game and hack and slack action RPG.
+  - entirely made in Common Lisp. Published on Steam.
+  - to be open sourced. Uses the [Trial](https://github.com/shirakumo/trial) game engine.
 - [sucle](https://github.com/terminal625/sucle) - A Minecraft clone (voxel game engine). [MIT].
+
+Those appeared in game jams:
+
+- [Notalone](https://github.com/borodust/notalone) - You wake up nowhere in the night. Hungry zombies around, but your ol' pal "BOOMSTICK" is with you. [GPL3]
 - [CotD](https://github.com/gwathlobal/CotD) - A roguelike battle of Angels and Demons in the streets of a Human city. [GPL3].
-- [Jak and Daxter](https://en.wikipedia.org/wiki/Jak_and_Daxter) - Jak and Daxter. [Proprietary].
 - [Option-9](https://github.com/psilord/option-9) -  A Shoot'em Up Game. No license specified.
 - [Asteroids](https://github.com/andyhd/asteroids) - Asteroids game in Common Lisp. [No License Specified].
 - [Cl-dino](https://github.com/VitoVan/cl-dino) - A Chrome Dinosaur Robot. [GPL3].
 - [Perfectstorm](https://github.com/lispgames/perfectstorm) - Perfectstorm is a real time strategy game study. [MIT](https://opensource.org/licenses/MIT).
-- [Notalone](https://github.com/borodust/notalone) - You wake up nowhere in the night. Hungry zombies around, but your ol' pal "BOOMSTICK" is with you. [GPL3]
 - [Starwar](https://github.com/xzpeter/starwar) - Starwar. [No License Specified].
 - [The-invaders](https://github.com/sebity/the-invaders) - A remake of the classic game Space Invader. [GPL2].
 - [Ninja-sphere](https://github.com/rpav/ninja-sphere) - Ninja Sphere. No license specified.
+
+See also:
+
+- [Jak and Daxter](https://en.wikipedia.org/wiki/Jak_and_Daxter) - Jak and Daxter. [Proprietary].
 
 
 ### Graphics
