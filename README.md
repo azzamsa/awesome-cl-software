@@ -157,6 +157,7 @@ and also:
 - [Geiriadur](http://www.cymraeg.ru/geiriadur/disgrifiad-2.html) - Dictionary lookup engine and a dictionary editing system. [No license specified].
 - [Sparser](https://github.com/ddmcdonald/sparser) - A natural language understanding system for English, [No license specified].
 - [Weyl](https://github.com/OdonataResearchLLC/weyl) - Computer algebra substrate from Cornell University. [No license specified].
+- [MathB](https://github.com/susam/mathb) - a math pastebin.
 
 ### File Manager
 
