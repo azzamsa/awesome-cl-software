@@ -216,9 +216,6 @@ Deprecated:
 
 - [cl-torrents](https://github.com/vindarel/cl-torrents) - a library and app with a command line and readline interface to search for torrents on popular trackers.
 
-#### RSS
-
-- [rssparser](https://bitbucket.org/tux_/rssparser.lisp) - A Web-to-RSS parser in Common Lisp for websites that don't have RSS feeds.
 
 ### Operating System
 
