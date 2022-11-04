@@ -64,16 +64,18 @@ We want to keep the 'master' list curated. If you want to uncurated list, see [c
 
 ### Audio
 
-- [OpusModus](http://opusmodus.com/) - a comprehensive computer-aided environment for the whole work of music composition. [Proprietary].
-- [OM7](https://github.com/openmusic-project/om7) - a new implementation of the OpenMusic visual programming and computer-aided composition environment including a number of improvements on graphical interface, computational mode, and connection to external software libraries. [GPL3][2].
+- ⭐ [OpusModus](http://opusmodus.com/) - a comprehensive computer-aided environment for the whole work of music composition. [Proprietary].
+- ⭐ [OM7](https://github.com/openmusic-project/om7) - a new implementation of the OpenMusic visual programming and computer-aided composition environment including a number of improvements on graphical interface, computational mode, and connection to external software libraries. [GPL3][2].
+- ⭐ [ScoreCloud](https://scorecloud.com/) - A web and mobile application to automatically create music notation from music performance or recordings. Built with LispWorks.
 - [Common Music](https://github.com/ormf/cm) - the repository of an ancient version of Common Music (version 2.12.0), the presumably last version which ran on Common Lisp dating from around 2007-09, before work on Common Music shifted to (scheme-based) cm3.
 - [Incudine](https://github.com/titola/incudine) -  Music/DSP programming environment for Common Lisp. Useful to design software synthesizers or sound plugins from scratch. It is also a compositional tool that allows to produce high quality sounds controllable at the sample level, defining and redefining the digital signal processors and the musical structures on-the-fly.
-- [Shuffletron](https://github.com/ahefner/shuffletron) - a search-based music player for the terminal. MIT-style licence.
 - [Ernestine](https://github.com/nlamirault/ernestine) - Ernestine is a music management application in McClim. [MIT].
 - [CLM](https://ccrma.stanford.edu/software/clm/) - Common Lisp Music is a music synthesis and signal processing package in the Music V family. It provides much the same functionality as Stk, Csound, SuperCollider, PD, CMix, cmusic, and Arctic — a collection of functions that create and manipulate sounds, aimed primarily at composers (in CLM's case anyway).
-- [Open Music](https://github.com/openmusic-project/OM6) - a visual programming, computer-aided composition environment. [GPL3][2].
 - [PWGL](http://www2.siba.fi/PWGL/) - A Visual Programming Language for Music and Sound.
-- [ScoreCloud](https://scorecloud.com/) - A web and mobile application to automatically create music notation from music performance or recordings. Built with LispWorks.
+
+A terminal application:
+
+- [Shuffletron](https://github.com/ahefner/shuffletron) - a search-based music player for the terminal. MIT-style licence.
 
 ### Blogging
 
