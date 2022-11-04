@@ -201,16 +201,20 @@ See also:
 
 #### Image Creation
 
-- [Sketch](https://github.com/vydd/sketch) -A Common Lisp framework for the creation of electronic art, visual design, game prototyping, game making, computer graphics, exploration of human-computer interaction, and more.
+- ⭐ [Sketch](https://github.com/vydd/sketch) -A Common Lisp framework for the creation of electronic art, visual design, game prototyping, game making, computer graphics, exploration of human-computer interaction, and more.
+- ⭐ [Kons-9](https://github.com/kaveh808/kons-9) - A 3D content creation tool. [MIT]
+  - https://www.youtube.com/watch?v=THMzaVDaZP8
 - [Snek](https://github.com/inconvergent/snek) - An experimental system for writing generative systems.
 - [Parasol](https://github.com/Shinmera/parasol) - A Common Lisp painting application.
 - [Wigflip](http://wigflip.com/) - image playground.
 - [PTC's 3d designer](https://www.ptc.com/en/products/cad/3d-design) - 3D Design Software. [Proprietary].
-- [Mirai](http://www.izware.com/mirai) - 3D editor built on the winged-edge data structure. [Proprietary].
 - [Flow](https://github.com/Shinmera/flow) - Tools for the representation of graphs and flowcharts.
 - [McPixel](https://github.com/ahefner/McPixel) - A toy Lisp program for drawing and animating pixel art.  No license specified.
 - [Stektcheroo](https://github.com/xach/sketcheroo) - 2D drawing and layout.
 
+See also:
+
+- [Mirai](http://www.izware.com/mirai) - A venerable 3D editor built on the winged-edge data structure. [Proprietary].
 
 #### Image Viewer
 
