@@ -110,23 +110,13 @@ See also:
 ### Development Tools
 
 - [Cepl](https://github.com/cbaggers/cepl) - Code Evaluate Play Loop. [2-clause BSD].
-- [Quickutil](https://github.com/tarballs-are-good/quickutil) - The solution to the Utility Library problem. [No License Specified].
-- [Quickdocs](https://github.com/quickdocs/quickdocs) - Ready and Up-to-Date Documentation for All Common Lisp Projects. [No License Specified].
-- [Lake](https://github.com/takagi/lake) - Lake is a GNU make like build utility in Common Lisp. [MIT].
-- [Asdf-viz](https://github.com/guicho271828/asdf-viz) - ASDF system dependency visualizer. [LLGPL].
-- [Cl-bunny](https://github.com/cl-rabbit/cl-bunny) - Common Lisp RabbitMQ client based on IOLib.
-- [Eazy-project](https://github.com/guicho271828/eazy-project) -  Interactive Project Generator & Manager. [No License Specified].
 - [barf](https://github.com/ebzzry/barf) - A simple Nixpkgs and NixOS helper. [CC0].
 - [Seed](https://github.com/phantomics/seed) - Interactive software environment based on Common Lisp. [GPL3].
-- [Sluglisp](https://github.com/ahungry/sluglisp) - Like Quicklisp, only slower (a web GUI based Quicklisp for searching the projects). [No License Specified].
-- [prometheus.cl](https://github.com/deadtrickster/prometheus.cl) - Prometheus.io Common Lisp client. [MIT].
-
 
 #### Databases
 
 - [Pgloader](https://github.com/dimitri/pgloader/) - Migrate to PostgreSQL in a single command!. [PostgreSQL License]
 - [Pgchart](https://github.com/dimitri/pgcharts) - A self-contained web application that takes as input an SQL query text and outputs its data as a chart. [No License Specified]
-- [LambdaLite](https://github.com/Wukix/LambdaLite) - A functional, relational database in about 250 lines of Common Lisp. [MIT].
 - [AllegroGraph](https://franz.com/agraph/allegrograph/) - A modern, high-performance, persistent graph database.
 
 #### IDE
