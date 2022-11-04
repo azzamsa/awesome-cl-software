@@ -151,12 +151,6 @@ and also:
 - [Maxima](https://sourceforge.net/projects/maxima/files/) - Computer Algebra System written in Common Lisp. [GPL2].
 - [Axiom](https://github.com/daly/axiom) -  Axiom is a free, open source computer algebra system. It is developed in its Spad language that compiles to Common Lisp.
   - [FriCAS](https://github.com/fricas/fricas) is a fork, more maintained and easier to build. «The FriCAS algebra library is the largest and most advanced free general purpose computer algebra system».
-- [ACL2](https://github.com/acl2/acl2) - A theorem proving environment. [3-clause BSD].
-- [Biochat](https://github.com/Bohdan-Khomtchouk/Biochat) - Where biological datasets learn to talk to each other. [MIT].
-- [PVS](https://github.com/SRI-CSL/PVS) - The People's Verification System . [GPL2].
-- [Geiriadur](http://www.cymraeg.ru/geiriadur/disgrifiad-2.html) - Dictionary lookup engine and a dictionary editing system. [No license specified].
-- [Sparser](https://github.com/ddmcdonald/sparser) - A natural language understanding system for English, [No license specified].
-- [Weyl](https://github.com/OdonataResearchLLC/weyl) - Computer algebra substrate from Cornell University. [No license specified].
 - [MathB](https://github.com/susam/mathb) - a math pastebin.
 
 ### File Manager
