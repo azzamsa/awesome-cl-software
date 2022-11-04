@@ -200,6 +200,9 @@ See also:
 
 ### Graphics
 
+- [cl-pkr](https://github.com/VitoVan/cl-pkr) - a cross-platform color picker. [GPL3].
+  - GUI built with the Tk framework.
+
 #### Image Creation
 
 - ⭐ [Sketch](https://github.com/vydd/sketch) -A Common Lisp framework for the creation of electronic art, visual design, game prototyping, game making, computer graphics, exploration of human-computer interaction, and more.
