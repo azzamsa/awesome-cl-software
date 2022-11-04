@@ -212,9 +212,6 @@ See also:
 - [McPixel](https://github.com/ahefner/McPixel) - A toy Lisp program for drawing and animating pixel art.  No license specified.
 - [Stektcheroo](https://github.com/xach/sketcheroo) - 2D drawing and layout.
 
-See also:
-
-- [Mirai](http://www.izware.com/mirai) - A venerable 3D editor built on the winged-edge data structure. [Proprietary].
 
 #### Image Viewer
 
@@ -303,6 +300,7 @@ Deprecated:
 - [Interleaf Publisher](https://en.wikipedia.org/wiki/Interleaf) - A document processor.
 - [Itasca database][Expat] - Database.
 - [Metal](https://en.wikipedia.org/wiki/METAL_MT) - Siemens machine translation system.
+- [Mirai](http://www.izware.com/mirai) - A venerable 3D editor built on the winged-edge data structure. [Proprietary].
 - [Sk8](https://en.wikipedia.org/wiki/SK8) - A multimedia authoring environment.
 - [Action!][Expat] - Expertelligence' Interface Designer.
 - [PRISM](http://www.radonc.washington.edu/medinfo/prism/) - The Prism project is a long term project to build software tools for radiation therapy planning, including artificial intelligence tools as well as manual simulation systems.
