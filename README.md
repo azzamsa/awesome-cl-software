@@ -267,11 +267,6 @@ Deprecated:
 - [Kindista](https://github.com/kindista/kindista) - A social network for local sharing. [AGPL3]
 - [Cyc](http://www.cyc.com/) - Build a database of heuristics. [Proprietary].
 - [Denso](https://github.com/start-jsk/denso) - A controller package suite for robots from Densowave based on open-industrial-ros-controllers. [No License Specified].
-- [Matrix Airfare Search](http://matrix.itasoftware.com/) - low-fare search engine. [Proprietary].
-- [Missile Defense](http://www.raytheon.com/) - Missile Defense at Raytheon. [Proprietary].
-- [Orbitz](https://www.orbitz.com/) -  Travel fare aggregator website and travel metasearch engine. [Proprietary].
-- [Piano](http://www.lissys.demon.co.uk/) - A complete aircraft analysis suite. [Proprietary].
-- [Routific](https://routific.com/) - Route optimization and fleet management. [Proprietary].
 - [Zen](https://github.com/pyb/zen) - The zen X server in Common Lisp. [GPL3].
 
 #### Historical Purposes
