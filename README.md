@@ -312,7 +312,8 @@ Deprecated:
 - [ScoreCloud Express](https://apps.apple.com/us/app/scorecloud-express/id566535238) - An iPhone and iPad application that automatically creates music notation from music performance or recordings.
 - [CL REPLay](https://gitlab.com/eql/EQL5-Android/tree/master/examples/REPL) - A REPL with simple editor. No license specified.
 - [Sokoban](https://gitlab.com/eql/EQL5-Android/tree/master/examples/sokoban) - Sokoban game. No license specified.
-
+- [Maxima on Android](https://play.google.com/store/apps/details?id=jp.yhonda), built with ECL.
+* [CodePlayground](https://codeplayground.app/) - an iPhone and iPad app with Lisp support via CCL.
 
 
 ## Other Lists
