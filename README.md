@@ -110,23 +110,13 @@ See also:
 ### Development Tools
 
 - [Cepl](https://github.com/cbaggers/cepl) - Code Evaluate Play Loop. [2-clause BSD].
-- [Quickutil](https://github.com/tarballs-are-good/quickutil) - The solution to the Utility Library problem. [No License Specified].
-- [Quickdocs](https://github.com/quickdocs/quickdocs) - Ready and Up-to-Date Documentation for All Common Lisp Projects. [No License Specified].
-- [Lake](https://github.com/takagi/lake) - Lake is a GNU make like build utility in Common Lisp. [MIT].
-- [Asdf-viz](https://github.com/guicho271828/asdf-viz) - ASDF system dependency visualizer. [LLGPL].
-- [Cl-bunny](https://github.com/cl-rabbit/cl-bunny) - Common Lisp RabbitMQ client based on IOLib.
-- [Eazy-project](https://github.com/guicho271828/eazy-project) -  Interactive Project Generator & Manager. [No License Specified].
 - [barf](https://github.com/ebzzry/barf) - A simple Nixpkgs and NixOS helper. [CC0].
 - [Seed](https://github.com/phantomics/seed) - Interactive software environment based on Common Lisp. [GPL3].
-- [Sluglisp](https://github.com/ahungry/sluglisp) - Like Quicklisp, only slower (a web GUI based Quicklisp for searching the projects). [No License Specified].
-- [prometheus.cl](https://github.com/deadtrickster/prometheus.cl) - Prometheus.io Common Lisp client. [MIT].
-
 
 #### Databases
 
 - [Pgloader](https://github.com/dimitri/pgloader/) - Migrate to PostgreSQL in a single command!. [PostgreSQL License]
 - [Pgchart](https://github.com/dimitri/pgcharts) - A self-contained web application that takes as input an SQL query text and outputs its data as a chart. [No License Specified]
-- [LambdaLite](https://github.com/Wukix/LambdaLite) - A functional, relational database in about 250 lines of Common Lisp. [MIT].
 - [AllegroGraph](https://franz.com/agraph/allegrograph/) - A modern, high-performance, persistent graph database.
 
 #### IDE
@@ -162,12 +152,6 @@ and also:
 - [Maxima](https://sourceforge.net/projects/maxima/files/) - Computer Algebra System written in Common Lisp. [GPL2].
 - [Axiom](https://github.com/daly/axiom) -  Axiom is a free, open source computer algebra system. It is developed in its Spad language that compiles to Common Lisp.
   - [FriCAS](https://github.com/fricas/fricas) is a fork, more maintained and easier to build. «The FriCAS algebra library is the largest and most advanced free general purpose computer algebra system».
-- [ACL2](https://github.com/acl2/acl2) - A theorem proving environment. [3-clause BSD].
-- [Biochat](https://github.com/Bohdan-Khomtchouk/Biochat) - Where biological datasets learn to talk to each other. [MIT].
-- [PVS](https://github.com/SRI-CSL/PVS) - The People's Verification System . [GPL2].
-- [Geiriadur](http://www.cymraeg.ru/geiriadur/disgrifiad-2.html) - Dictionary lookup engine and a dictionary editing system. [No license specified].
-- [Sparser](https://github.com/ddmcdonald/sparser) - A natural language understanding system for English, [No license specified].
-- [Weyl](https://github.com/OdonataResearchLLC/weyl) - Computer algebra substrate from Cornell University. [No license specified].
 - [MathB](https://github.com/susam/mathb) - a math pastebin.
 
 ### File Manager
@@ -236,9 +220,6 @@ Deprecated:
 
 - [cl-torrents](https://github.com/vindarel/cl-torrents) - a library and app with a command line and readline interface to search for torrents on popular trackers.
 
-#### RSS
-
-- [rssparser](https://bitbucket.org/tux_/rssparser.lisp) - A Web-to-RSS parser in Common Lisp for websites that don't have RSS feeds.
 
 ### Operating System
 
@@ -290,11 +271,6 @@ Deprecated:
 - [Kindista](https://github.com/kindista/kindista) - A social network for local sharing. [AGPL3]
 - [Cyc](http://www.cyc.com/) - Build a database of heuristics. [Proprietary].
 - [Denso](https://github.com/start-jsk/denso) - A controller package suite for robots from Densowave based on open-industrial-ros-controllers. [No License Specified].
-- [Matrix Airfare Search](http://matrix.itasoftware.com/) - low-fare search engine. [Proprietary].
-- [Missile Defense](http://www.raytheon.com/) - Missile Defense at Raytheon. [Proprietary].
-- [Orbitz](https://www.orbitz.com/) -  Travel fare aggregator website and travel metasearch engine. [Proprietary].
-- [Piano](http://www.lissys.demon.co.uk/) - A complete aircraft analysis suite. [Proprietary].
-- [Routific](https://routific.com/) - Route optimization and fleet management. [Proprietary].
 - [Zen](https://github.com/pyb/zen) - The zen X server in Common Lisp. [GPL3].
 
 #### Historical Purposes
