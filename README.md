@@ -163,6 +163,8 @@ and also:
 - [Kandria](https://kandria.com/) - a post-apocalyptic exploratory 2D platformer game and hack and slack action RPG.
   - entirely made in Common Lisp. Published on Steam.
   - to be open sourced. Uses the [Trial](https://github.com/shirakumo/trial) game engine.
+- [Jettatura](https://store.steampowered.com/app/2023440/Jettatura/) - a challenging first-person dungeon-crawler (DRPG) with round-based combat.
+  - Published on Steam on October, 2022. Proprietary.
 - [sucle](https://github.com/terminal625/sucle) - A Minecraft clone (voxel game engine). [MIT].
 
 Those appeared in game jams:
