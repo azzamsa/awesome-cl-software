@@ -192,7 +192,7 @@ See also:
 - [PTC's 3d designer CAD software](https://www.ptc.com/en/products/cad/3d-design) - 3D Design Software. [Proprietary].
   - "Creo Elements/Direct is a comprehensive system for mechanical engineers and designers who create products using the direct modeling approach to 3D CAD."
   - example use: the Eterna brand usee it to [develop its watches](https://www.youtube.com/watch?v=mJGytRaNvec).
-  - "7+ million lines of Common Lisp code" ([source](https://news.ycombinator.com/item?id=13142798))
+  - "7+ million lines of Common Lisp code" ([source: ELS 2009 slides](http://www.clausbrod.de/cgi-bin/view.pl/Blog/DefinePrivatePublic20090620CommonLispInCoCreateModeling))
   - they offer a [free version to download](https://www.ptc.com/en/products/creo/elements-direct/modeling-express) for Microsoft Windows x64.
 - ⭐ [Sketch](https://github.com/vydd/sketch) -A Common Lisp framework for the creation of electronic art, visual design, game prototyping, game making, computer graphics, exploration of human-computer interaction, and more.
 - ⭐ [Kons-9](https://github.com/kaveh808/kons-9) - A 3D content creation tool. [MIT]
