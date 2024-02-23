@@ -68,7 +68,8 @@ We want to keep the 'master' list curated. If you want to uncurated list, see [c
 - ⭐ [OM7](https://github.com/openmusic-project/om7) - a new implementation of the OpenMusic visual programming and computer-aided composition environment including a number of improvements on graphical interface, computational mode, and connection to external software libraries. [GPL3][2].
 - ⭐ [ScoreCloud](https://scorecloud.com/) - A web and mobile application to automatically create music notation from music performance or recordings. Built with LispWorks.
 - 👍 [MusicEase](https://www.musicease.com) - Music notation software, developed for over 35 years.
-  - built in LispWorks.
+  - "MusicEase is a constraint-based system with a large amount of knowledge of music notation. This allows it to intelligently handle many of the details of scoring automatically."
+  - a [LispWorks success story](http://www.lispworks.com/success-stories/musicease.html).
   - includes a fully functional demo, free for 30 days (printouts are watermarked). Available on Windows and MacOS.
 - [Common Music](https://github.com/ormf/cm) - the repository of an ancient version of Common Music (version 2.12.0), the presumably last version which ran on Common Lisp dating from around 2007-09, before work on Common Music shifted to (scheme-based) cm3.
 - [Incudine](https://github.com/titola/incudine) -  Music/DSP programming environment for Common Lisp. Useful to design software synthesizers or sound plugins from scratch. It is also a compositional tool that allows to produce high quality sounds controllable at the sample level, defining and redefining the digital signal processors and the musical structures on-the-fly.
