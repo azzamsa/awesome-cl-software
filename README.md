@@ -137,6 +137,7 @@ For more lisp development libraries, see [Awesome-cl](https://github.com/CodyRei
 
 ### Desktop Environment
 
+- [mold-desktop](https://codeberg.org/mmontone/mold-desktop) - a programmable, in-browser desktop. [AGPL]
 - [Mcclim-desktop](https://github.com/gas2serra/mcclim-desktop) - a clim-desktop clone. [GPL3].
 
 ### Editors
