@@ -65,9 +65,11 @@ We want to keep the 'master' list curated. If you want to uncurated list, see [c
 ### Audio
 
 - ⭐ [OpusModus](http://opusmodus.com/) - a comprehensive computer-aided environment for the whole work of music composition. [Proprietary].
+- ⭐ [OpenMusic](https://github.com/openmusic-project/openmusic/) visual programming / computer-aided composition environment. [GPL3][2].
+  * developped at [IRCAM](https://www.stms-lab.fr/team/representations-musicales/), France. The base of other research projects and software, such as [MusiqueLab2](https://www.stms-lab.fr/shop/product/musique-lab-2/), distributed by France's ministry of education to all music teachers.
 - ⭐ [OM7](https://github.com/openmusic-project/om7) - a new implementation of the OpenMusic visual programming and computer-aided composition environment including a number of improvements on graphical interface, computational mode, and connection to external software libraries. [GPL3][2].
 - ⭐ [ScoreCloud](https://scorecloud.com/) - A web and mobile application to automatically create music notation from music performance or recordings. Built with LispWorks.
-- 👍 [MusicEase](https://www.musicease.com) - Music notation software, developed for over 35 years.
+- 👍 [MusicEase](https://www.musicease.com) - Music notation software, developed for over 35 years. Proprietary.
   - "MusicEase is a constraint-based system with a large amount of knowledge of music notation. This allows it to intelligently handle many of the details of scoring automatically."
   - a [LispWorks success story](http://www.lispworks.com/success-stories/musicease.html).
   - includes a fully functional demo, free for 30 days (printouts are watermarked). Available on Windows and MacOS.
