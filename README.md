@@ -174,17 +174,24 @@ and also:
   - Published on Steam on October, 2022. Proprietary.
 - [sucle](https://github.com/terminal625/sucle) - A Minecraft clone (voxel game engine). [MIT].
 
-Those appeared in game jams:
+Those appeared in game jams (the list is not exhaustive):
 
+- [nano-towers](https://bohonghuang.itch.io/nano-towers) - a simple tower defense game written in Common Lisp with the EON framework based on Raylib, submitted for the Spring Lisp Game Jam 2024.
+- [dmomd](https://codeberg.org/artchad/dmomd) - a rogue-like RPG with turn based movement and combat.
+- [Orb](https://baggers.itch.io/orb) - you control a spaceship and you must protect the Orb, and yourself.
 - [Notalone](https://github.com/borodust/notalone) - You wake up nowhere in the night. Hungry zombies around, but your ol' pal "BOOMSTICK" is with you. [GPL3]
+- [the price of a cup of coffee](https://goofist.itch.io/the-price-of-a-cup-of-coffee)
 - [CotD](https://github.com/gwathlobal/CotD) - A roguelike battle of Angels and Demons in the streets of a Human city. [GPL3].
 - [Option-9](https://github.com/psilord/option-9) -  A Shoot'em Up Game. No license specified.
 - [Asteroids](https://github.com/andyhd/asteroids) - Asteroids game in Common Lisp. [No License Specified].
-- [Cl-dino](https://github.com/VitoVan/cl-dino) - A Chrome Dinosaur Robot. [GPL3].
 - [Perfectstorm](https://github.com/lispgames/perfectstorm) - Perfectstorm is a real time strategy game study. [MIT](https://opensource.org/licenses/MIT).
 - [Starwar](https://github.com/xzpeter/starwar) - Starwar. [No License Specified].
 - [The-invaders](https://github.com/sebity/the-invaders) - A remake of the classic game Space Invader. [GPL2].
 - [Ninja-sphere](https://github.com/rpav/ninja-sphere) - Ninja Sphere. No license specified.
+
+A Chrome Dinosaur robot:
+
+- [Cl-dino](https://github.com/VitoVan/cl-dino) - A Chrome Dinosaur Robot. [GPL3].
 
 See also:
 
