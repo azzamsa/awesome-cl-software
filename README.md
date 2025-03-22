@@ -200,8 +200,12 @@ See also:
 
 ### Graphics
 
+- [charapainter](https://github.com/apr3vau/charapainter) - Drawing & converting images with colorful characters. Export to image, HTML and terminal. Desktop application.
+  - LispWorks. Also available in the AppStore.
 - [cl-pkr](https://github.com/VitoVan/cl-pkr) - a cross-platform color picker. [GPL3].
   - GUI built with the Tk framework.
+
+<img src="https://raw.githubusercontent.com/apr3vau/charapainter/main/res/0.2preview1.png" alt="Charapainter screenshot: drawing images with colorful characters" style="max-width: 100%"/>
 
 #### Image Creation
 
