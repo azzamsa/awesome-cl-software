@@ -96,6 +96,10 @@ See also:
 #### Static Blog Generator
 
 - [Coleslaw](https://github.com/kingcons/coleslaw) - Flexible Lisp Blogware.
+- [Collards](https://collards.kingcons.io/) - A static site generator for those who love Markdown and parens.
+  - markdown blog posts, custom pages, local preview with hot reloading,
+  - deployment via rsync, CLI app
+  - RSS feeds, tag and year indexes.
 
 ### Chat
 
