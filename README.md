@@ -104,8 +104,7 @@ See also:
 ### Chat
 
 - [Lisp-chat](https://github.com/ryukinix/lisp-chat) - An experimental minimal chat. [MIT].
-- [Collen](https://github.com/Shinmera/colleen) - Common Lisp IRC bot with a modular framework.
-- [Lichat](https://shirakumo.github.io/maiden/clients/lichat/) - Lichat client for Maiden. [Artistic License 2.0]
+- [Maiden](https://github.com/Shirakumo/maiden) - Common Lisp collection of systems to help you build applications and libraries that interact with chat servers. Includes clients for IRC, Lichat and Relay. [zlib License]
 
 See also:
 
