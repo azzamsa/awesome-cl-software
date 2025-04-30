@@ -171,9 +171,9 @@ and also:
 
 ### Games
 
-- [Kandria](https://kandria.com/) - a post-apocalyptic exploratory 2D platformer game and hack and slack action RPG.
+- [Kandria](https://github.com/Shirakumo/kandria) - a post-apocalyptic exploratory 2D platformer game and hack and slack action RPG. [zlib License]
   - entirely made in Common Lisp. Published on Steam.
-  - to be open sourced. Uses the [Trial](https://github.com/shirakumo/trial) game engine.
+  - Uses the [Trial](https://github.com/shirakumo/trial) game engine.
 - [Jettatura](https://store.steampowered.com/app/2023440/Jettatura/) - a challenging first-person dungeon-crawler (DRPG) with round-based combat.
   - Published on Steam on October, 2022. Proprietary.
 - [sucle](https://github.com/terminal625/sucle) - A Minecraft clone (voxel game engine). [MIT].
@@ -206,10 +206,11 @@ See also:
 
 - [charapainter](https://github.com/apr3vau/charapainter) - Drawing & converting images with colorful characters. Export to image, HTML and terminal. Desktop application.
   - LispWorks. Also available in the AppStore.
+  
+<img src="https://raw.githubusercontent.com/apr3vau/charapainter/main/res/0.2preview1.png" alt="Charapainter screenshot: drawing images with colorful characters" style="max-width: 100%"/>
+
 - [cl-pkr](https://github.com/VitoVan/cl-pkr) - a cross-platform color picker. [GPL3].
   - GUI built with the Tk framework.
-
-<img src="https://raw.githubusercontent.com/apr3vau/charapainter/main/res/0.2preview1.png" alt="Charapainter screenshot: drawing images with colorful characters" style="max-width: 100%"/>
 
 #### Image Creation
 
