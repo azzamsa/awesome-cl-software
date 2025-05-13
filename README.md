@@ -126,9 +126,9 @@ See also:
 
 #### Databases
 
-- [Pgloader](https://github.com/dimitri/pgloader/) - Migrate to PostgreSQL in a single command!. [PostgreSQL License]
-- [Pgchart](https://github.com/dimitri/pgcharts) - A self-contained web application that takes as input an SQL query text and outputs its data as a chart. [No License Specified]
-- [AllegroGraph](https://franz.com/agraph/allegrograph/) - A modern, high-performance, persistent graph database.
+- ⭐ [Pgloader](https://github.com/dimitri/pgloader/) - Migrate to PostgreSQL in a single command!. [PostgreSQL License]
+- ⭐ [Pgchart](https://github.com/dimitri/pgcharts) - A self-contained web application that takes as input an SQL query text and outputs its data as a chart. [No License Specified]
+- ⭐ [AllegroGraph](https://franz.com/agraph/allegrograph/) - A modern, high-performance, persistent graph database.
 
 #### IDE
 
@@ -271,7 +271,9 @@ Deprecated:
 - [Deftask](https://deftask.com/) - Painless task management for teams. [Partly Open Source].
 - [Ichiran](https://github.com/tshatrov/ichiran) - Linguistic tools for texts in Japanese language. [MIT].
 - [Projectured](https://github.com/projectured/projectured) -  ProjecturEd is a generic purpose projectional editor. [No License Specified].
-- [Ballish](https://ballish.margaine.com/) - A pretty fast code search tool. [GPL2].
+- 🚀 [Ballish](https://ballish.margaine.com/) - A pretty fast code search tool. [GPL2].
+- [Screenshotbot](https://screenshotbot.io)
+  - Visual Testing as a service. Get notified on Pull Requests when your code changes your UI, mobile or web. Built with LispWorks.
 
 See also:
 
@@ -281,11 +283,12 @@ See also:
 ### Publishing
 
 - [ABStock](https://github.com/vindarel/ABStock) - allows to publish an online catalogue of products. Primarily made for books.
+  - used in production since 2021.
 
 
 ### Social news
 
-- [Reddit v1 source code](https://github.com/tamurashingo/reddit1.0/) ([reddit](https://www.reddit.com/r/programming/comments/883vzs/old_reddit_source_code/)). [Proprietary].
+- 🚀[Reddit v1 source code](https://github.com/tamurashingo/reddit1.0/) ([reddit](https://www.reddit.com/r/programming/comments/883vzs/old_reddit_source_code/)). [Proprietary].
 
 ### Utilities
 
