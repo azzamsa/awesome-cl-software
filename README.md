@@ -79,9 +79,10 @@ We want to keep the 'master' list curated. If you want to uncurated list, see [c
 - [CLM](https://ccrma.stanford.edu/software/clm/) - Common Lisp Music is a music synthesis and signal processing package in the Music V family. It provides much the same functionality as Stk, Csound, SuperCollider, PD, CMix, cmusic, and Arctic — a collection of functions that create and manipulate sounds, aimed primarily at composers (in CLM's case anyway).
 - [PWGL](http://www2.siba.fi/PWGL/) - A Visual Programming Language for Music and Sound.
 
-A terminal application:
+Terminal applications:
 
 - [Shuffletron](https://github.com/ahefner/shuffletron) - a search-based music player for the terminal. MIT-style licence.
+- [oscl](https://github.com/ogrew/oscl) - a minimal CLI tool that lets you send and receive OSC messages from the terminal.
 
 ### Blogging
 
@@ -228,6 +229,11 @@ See also:
 - [Flow](https://github.com/Shinmera/flow) - Tools for the representation of graphs and flowcharts.
 - [McPixel](https://github.com/ahefner/McPixel) - A toy Lisp program for drawing and animating pixel art.  No license specified.
 - [Stektcheroo](https://github.com/xach/sketcheroo) - 2D drawing and layout.
+
+Terminal applications:
+
+- [visp](https://github.com/ogrew/visp) - ffmpeg wrapper CLI tool. MIT.
+  -  It simplifies repetitive ffmpeg operations like resolution conversion, audio stripping, codec switching, and more — all while auto-generating output filenames.
 
 
 #### Image Viewer
