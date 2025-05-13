@@ -151,6 +151,9 @@ For more lisp development libraries, see [Awesome-cl](https://github.com/CodyRei
 
 - [Lem](https://github.com/cxxxr/lem) - Common Lisp editor/IDE with high expansibility. [MIT].
   - works out of the box for many languages. Has a Language Server Protocol (LSP) client.
+- [Neomacs](https://github.com/neomacs-project/neomacs) - Neomacs is a computing environment based on structural editing. Neomacs aims to become the Emacs of trees. Currently, Neomacs is a usable Lisp IDE and keyboard-driven browser. GPL3.
+
+![](https://github.com/neomacs-project/neomacs/raw/master/matrix.png)
 
 and also:
 
