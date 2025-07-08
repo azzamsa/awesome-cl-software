@@ -4,7 +4,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ![Lisp logo](https://github.com/azzamsa/lisp-logo/blob/master/logos/lisp-lizard-with-text.svg)
-    
+
 </div>
 
 ---
@@ -81,8 +81,22 @@ We want to keep the 'master' list curated. If you want to uncurated list, see [c
 
 Terminal applications:
 
-- [Shuffletron](https://github.com/ahefner/shuffletron) - a search-based music player for the terminal. MIT-style licence.
-- [oscl](https://github.com/ogrew/oscl) - a minimal CLI tool that lets you send and receive OSC messages from the terminal.
+- [Benben](https://chiselapp.com/user/MistressRemilia/repository/benben/dir?ci=tip) - a fast and efficient command line audio player and audio converter for Linux and other Unix-like systems with an oldschool-inspired interface. It supports multiple formats, and is especially suited to people who organize their music in folders.
+  - with AppImages (for Linux x86-64)
+  - project goals:
+    - High-performance playback of the most common music formats (audio decoding written in Common Lisp, relies on as few bindings as possible)
+    - A TUI program designed for people who keep their music organized in folders. The overall design should be similar to tools like mpg123 or flac123, where you select the files to play from the command line, but with a much nicer interface.
+    - Fast rendering of multiple files to WAV and Au in parallel.
+    - An optional set of high-quality effects, such as an equalizer and reverb.
+    - project non-goal: a file browser to add files while Benben is running. This would directly contradict project goal #2.
+- [oscl](https://github.com/ogrew/oscl) - a minimal CLI tool that lets you send and receive OSC messages from the terminal, making it useful for scripting, testing, and quick integration with OSC-enabled systems.
+
+![](benben.png "benben music player and audio converter")
+
+*stalling*:
+
+- [Shuffletron](https://github.com/ahefner/shuffletron) - a search-based music player for the terminal. MIT-style licence. *stalling*
+
 
 ### Blogging
 
@@ -210,7 +224,7 @@ See also:
 
 - [charapainter](https://github.com/apr3vau/charapainter) - Drawing & converting images with colorful characters. Export to image, HTML and terminal. Desktop application.
   - LispWorks. Also available in the AppStore.
-  
+
 <img src="https://raw.githubusercontent.com/apr3vau/charapainter/main/res/0.2preview1.png" alt="Charapainter screenshot: drawing images with colorful characters" style="max-width: 100%"/>
 
 - [cl-pkr](https://github.com/VitoVan/cl-pkr) - a cross-platform color picker. [GPL3].
