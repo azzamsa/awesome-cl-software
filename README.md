@@ -195,6 +195,10 @@ and also:
 - [Jettatura](https://store.steampowered.com/app/2023440/Jettatura/) - a challenging first-person dungeon-crawler (DRPG) with round-based combat.
   - Published on Steam on October, 2022. Proprietary.
 - [sucle](https://github.com/terminal625/sucle) - A Minecraft clone (voxel game engine). [MIT].
+- [Capture the Flag engine](https://github.com/atgreen/ctfg) - challenges with a live scoreboard.
+  - alternative to the open source python-based game engine (CTFd): "It's mostly OK, but we had serious performance problems (UI locking up) when we approached any kind of interesting scale."
+  - "a style of game that's popular in cybersecurity circles, where you are presented with a series of challenges that, when solved, provides text "flags". The flags gives you points. It's a competition, which is why ctfg has a live scoreboard. I would run this as a live, in-person event, and have the live scoreboard up on the big screen to make it exciting. I don't run it as a cybersecurity event. It's more of a fun kubernetes training experience."
+  - [reddit announce](https://www.reddit.com/r/Common_Lisp/comments/1m4twe9/ctfg_a_capturetheflag_game_engine_in_common_lisp/)
 
 Those appeared in game jams (the list is not exhaustive):
 
