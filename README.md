@@ -255,6 +255,9 @@ Terminal applications:
 
 #### Image Viewer
 
+- [pixel-diff](https://github.com/screenshotbot/pixel-diff) - a desktop and command line tool to visualize differences between images, designed for use with screenshot tests. MPL-2.0.
+  - built with LispWorks' CAPI, by [ScreenShotBot](https://screenshotbot.io/).
+  - new as of August, 2025.
 - [Halftone](https://github.com/Shinmera/halftone) - A simple image viewer in Common Lisp.
 - [Spectacle](https://github.com/slyrus/spectacle) - A CLIM application for viewing opticl images. [2-clause BSD](https://directory.fsf.org/wiki/License:BSD_2Clause).
 
