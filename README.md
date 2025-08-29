@@ -267,6 +267,8 @@ Terminal applications:
 
 ### Internet
 
+- [mx-proxy](https://github.com/garlic0x1/mx-proxy) - a Web debugging proxy - with an Electron, GTK4 or Tcl/Tk GUI.
+
 #### Browser
 
 - [Nyxt](https://github.com/atlas-engineer/nyxt/) - The fastest productivity web-browser.
