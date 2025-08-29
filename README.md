@@ -138,6 +138,10 @@ See also:
 - [barf](https://github.com/ebzzry/barf) - A simple Nixpkgs and NixOS helper. [CC0].
 - [Seed](https://github.com/phantomics/seed) - Interactive software environment based on Common Lisp. [GPL3].
 
+Terminal applications:
+
+- [gitwatch](https://github.com/garlic0x1/gitwatch) - Notify a Discord channel when repos are updated.
+
 #### Databases
 
 - ⭐ [Pgloader](https://github.com/dimitri/pgloader/) - Migrate to PostgreSQL in a single command!. [PostgreSQL License]
