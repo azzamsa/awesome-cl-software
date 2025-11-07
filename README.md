@@ -176,7 +176,6 @@ For more lisp development libraries, see [Awesome-cl](https://github.com/CodyRei
 and also:
 
 - [Second Climacs](https://github.com/robert-strandh/Second-Climacs) - Version 2 of the Climacs text editor.
-- [MarkEdit](https://github.com/ceramic/markedit/) - Markdown editor and previewer built with Ceramic. [No license specified].
 - [Med](https://github.com/burtonsamograd/med) - Emacs-like text editor for the Mezzano operating system. [MIT].
 - [Hemlock](https://github.com/bluelisp/hemlock) -  Portable version of the Hemlock editor. [No Licence Specified].
 
