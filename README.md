@@ -256,7 +256,7 @@ See also:
 
 #### Image Creation
 
-- [PTC's 3d designer CAD software](https://www.ptc.com/en/products/cad/3d-design) - 3D Design Software. [Proprietary].
+- [PTC's 3D designer "Creo Elements" CAD software](https://www.ptc.com/en/products/cad/3d-design) - 3D Design Software. [Proprietary].
   - "Creo Elements/Direct is a comprehensive system for mechanical engineers and designers who create products using the direct modeling approach to 3D CAD."
   - example use: the Eterna brand usee it to [develop its watches](https://www.youtube.com/watch?v=mJGytRaNvec).
   - "7+ million lines of Common Lisp code" ([source: ELS 2009 slides](http://www.clausbrod.de/cgi-bin/view.pl/Blog/DefinePrivatePublic20090620CommonLispInCoCreateModeling))
@@ -276,6 +276,7 @@ Terminal applications:
 - [visp](https://github.com/ogrew/visp) - ffmpeg wrapper CLI tool. MIT.
   -  It simplifies repetitive ffmpeg operations like resolution conversion, audio stripping, codec switching, and more — all while auto-generating output filenames.
 
+![Creo Elements CAD software](https://ptc-p-001.sitecorecontenthub.cloud/api/public/content/4dbbdeacc96b4863962e3ddde262b95b)
 
 #### Image Viewer
 
