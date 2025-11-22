@@ -171,7 +171,7 @@ For more lisp development libraries, see [Awesome-cl](https://github.com/CodyRei
   - works out of the box for many languages. Has a Language Server Protocol (LSP) client.
 - [Neomacs](https://github.com/neomacs-project/neomacs) - Neomacs is a computing environment based on structural editing. Neomacs aims to become the Emacs of trees. Currently, Neomacs is a usable Lisp IDE and keyboard-driven browser. GPL3.
 
-![](https://github.com/neomacs-project/neomacs/raw/master/matrix.png)
+![](https://github.com/neomacs-project/neomacs/raw/master/matrix.png "Neomacs")
 
 and also:
 
@@ -195,7 +195,7 @@ See also:
 - [Lem's directory-mode](https://lem-project.github.io/modes/directory/).
 - cl-tuition library's [file manager example](https://github.com/atgreen/cl-tuition/tree/master?tab=readme-ov-file#gallery).
 
-![The Lem editor's directory mode](https://github-production-user-asset-6210df.s3.amazonaws.com/13656378/239887331-8c790229-1f7c-4581-b093-9c56d4d85420.png)
+![The Lem editor's directory mode](https://github-production-user-asset-6210df.s3.amazonaws.com/13656378/239887331-8c790229-1f7c-4581-b093-9c56d4d85420.png "Lem's directory mode")
 
 ### Games
 
@@ -242,7 +242,7 @@ See also:
 - [Jak and Daxter](https://en.wikipedia.org/wiki/Jak_and_Daxter) - Jak and Daxter. [Proprietary].
 
 
-![ChessLab](https://tomscii.sig7.se/images/chesslab/analysis.png)
+![ChessLab](https://tomscii.sig7.se/images/chesslab/analysis.png "Chesslab, built with the new Barium Lisp GUI toolkit")
 
 ### Graphics
 
@@ -276,7 +276,7 @@ Terminal applications:
 - [visp](https://github.com/ogrew/visp) - ffmpeg wrapper CLI tool. MIT.
   -  It simplifies repetitive ffmpeg operations like resolution conversion, audio stripping, codec switching, and more — all while auto-generating output filenames.
 
-![Creo Elements CAD software](https://ptc-p-001.sitecorecontenthub.cloud/api/public/content/4dbbdeacc96b4863962e3ddde262b95b)
+![Creo Elements CAD software](https://ptc-p-001.sitecorecontenthub.cloud/api/public/content/4dbbdeacc96b4863962e3ddde262b95b "Creo Elements CAD software")
 
 #### Image Viewer
 
@@ -306,7 +306,7 @@ Deprecated:
 ### Operating System
 
 - [Mezzano](https://github.com/froggey/Mezzano) - An operating system written in Common Lisp
-- [Yalo](https://github.com/whily/yalo) - Lisp OS running on bare metal x86-64 hardware (WIP) 
+- [Yalo](https://github.com/whily/yalo) - Lisp OS running on bare metal x86-64 hardware (WIP)
 
 
 ### Productivity
