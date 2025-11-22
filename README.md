@@ -190,6 +190,13 @@ and also:
 
 - [Filer](https://github.com/froggey/Mezzano) - Mezzano File Manager.
 
+See also:
+
+- [Lem's directory-mode](https://lem-project.github.io/modes/directory/).
+- cl-tuition library's [file manager example](https://github.com/atgreen/cl-tuition/tree/master?tab=readme-ov-file#gallery).
+
+![The Lem editor's directory mode](https://github-production-user-asset-6210df.s3.amazonaws.com/13656378/239887331-8c790229-1f7c-4581-b093-9c56d4d85420.png)
+
 ### Games
 
 - [Kandria](https://github.com/Shirakumo/kandria) - a post-apocalyptic exploratory 2D platformer game and hack and slack action RPG. [zlib License]
