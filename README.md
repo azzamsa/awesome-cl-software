@@ -195,6 +195,14 @@ and also:
 - [Kandria](https://github.com/Shirakumo/kandria) - a post-apocalyptic exploratory 2D platformer game and hack and slack action RPG. [zlib License]
   - entirely made in Common Lisp. Published on Steam.
   - Uses the [Trial](https://github.com/shirakumo/trial) game engine.
+- [ChessLab](https://tomscii.sig7.se/chesslab/) - a desktop application for chess players and chess enthusiasts. [blog post](https://tomscii.sig7.se/2025/11/ChessLab-A-program-for-chess-players) (2025). GPL3.
+  - browse through game collections and replay games;
+  - keep a record of your own games;
+  - maintain an opening repertoire;
+  - evaluate and analyse positions;
+  - play chess against the computer (UCI interface, Stockfish, Fairy-Stockfish);
+  - solve puzzles;
+  - look at a (virtual) 3D chessboard.
 - [Jettatura](https://store.steampowered.com/app/2023440/Jettatura/) - a challenging first-person dungeon-crawler (DRPG) with round-based combat.
   - Published on Steam on October, 2022. Proprietary.
 - [sucle](https://github.com/terminal625/sucle) - A Minecraft clone (voxel game engine). [MIT].
@@ -226,6 +234,8 @@ See also:
 
 - [Jak and Daxter](https://en.wikipedia.org/wiki/Jak_and_Daxter) - Jak and Daxter. [Proprietary].
 
+
+![ChessLab](https://tomscii.sig7.se/images/chesslab/analysis.png)
 
 ### Graphics
 
