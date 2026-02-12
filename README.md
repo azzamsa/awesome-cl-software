@@ -124,11 +124,11 @@ See also:
 
 See also:
 
-- [Potato](https://github.com/cicakhq/potato) - Delicious conversations platform in Common Lisp and ClojureScript.
+- [Potato](https://github.com/cicakhq/potato) - Delicious conversations platform in Common Lisp and ClojureScript. [stalling]
 
 #### Chat Bot
 
-- [Lisp-paste](https://github.com/stassats/lisp-bots) - Bots from #lisp. [MIT].
+- [Lisp-bots](https://github.com/stassats/lisp-bots) - Bots from #lisp. [MIT].
 - [Alice](https://github.com/TeMPOraL/alice) - Alice Margatroid, a dollmaster that pretends not to be a doll itself. [No license Specified].
 - [Magitek](https://github.com/sjl/magitek) - Whimsical robots infused with just a hint of magic. No license specified.
 
@@ -264,12 +264,8 @@ See also:
 - ⭐ [Sketch](https://github.com/vydd/sketch) -A Common Lisp framework for the creation of electronic art, visual design, game prototyping, game making, computer graphics, exploration of human-computer interaction, and more.
 - ⭐ [Kons-9](https://github.com/kaveh808/kons-9) - A 3D content creation tool. [MIT]
   - https://www.youtube.com/watch?v=THMzaVDaZP8
-- [Snek](https://github.com/inconvergent/snek) - An experimental system for writing generative systems.
-- [Parasol](https://github.com/Shinmera/parasol) - A Common Lisp painting application.
-- [Wigflip](http://wigflip.com/) - image playground.
+- [Weir](https://github.com/inconvergent/weir) - An experimental system for writing generative systems.
 - [Flow](https://github.com/Shinmera/flow) - Tools for the representation of graphs and flowcharts.
-- [McPixel](https://github.com/ahefner/McPixel) - A toy Lisp program for drawing and animating pixel art.  No license specified.
-- [Stektcheroo](https://github.com/xach/sketcheroo) - 2D drawing and layout.
 
 Terminal applications:
 
@@ -312,7 +308,7 @@ Deprecated:
 ### Productivity
 
 - [Grammarly](https://www.grammarly.com/) - Grammar checking. [Proprietary].
-- [Deftask](https://deftask.com/) - Painless task management for teams. [Partly Open Source].
+- [Deftask](https://github.com/deftask/deftask-cli) - Painless task management for teams. [Partly Open Source].
 - [Ichiran](https://github.com/tshatrov/ichiran) - Linguistic tools for texts in Japanese language. [MIT].
 - [Projectured](https://github.com/projectured/projectured) -  ProjecturEd is a generic purpose projectional editor. [No License Specified].
 - 🚀 [Ballish](https://ballish.margaine.com/) - A pretty fast code search tool. [GPL2].
