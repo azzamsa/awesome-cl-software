@@ -326,6 +326,7 @@ See also:
 
 ### Publishing
 
+- [etap](https://github.com/didierverna/etap) -  Experimental Typesetting Algorithms Platform.
 - [ABStock](https://github.com/vindarel/ABStock) - allows to publish an online catalogue of products. Primarily made for books.
   - used in production since 2021.
 
