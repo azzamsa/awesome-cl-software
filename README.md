@@ -274,7 +274,7 @@ See also:
 - ⭐ [Kons-9](https://github.com/kaveh808/kons-9) - A 3D content creation tool. [MIT]
   - https://www.youtube.com/watch?v=THMzaVDaZP8
 - [Weir](https://github.com/inconvergent/weir) - An experimental system for writing generative systems.
-- [Flow](https://github.com/Shinmera/flow) - Tools for the representation of graphs and flowcharts.
+- [Flow](https://codeberg.org/shinmera/flow) - Tools for the representation of graphs and flowcharts.
 
 Terminal applications:
 
