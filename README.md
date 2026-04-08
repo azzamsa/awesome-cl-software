@@ -293,6 +293,14 @@ Terminal applications:
 
 ### Internet
 
+- [Happening](https://github.com/atgreen/happening) - A privacy-focused, self-hosted web analytics platform.
+  - self-hosted
+  - No cookies, no personal data collection
+  - built-in TLS certificates
+  - built-in IP-to-country lookup
+  - single binary
+  - interactive setup wizard
+  - self-update support
 - [mx-proxy](https://github.com/garlic0x1/mx-proxy) - a Web debugging proxy - with an Electron, GTK4 or Tcl/Tk GUI.
 
 #### Browser
