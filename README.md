@@ -301,6 +301,7 @@ Terminal applications:
   - interactive setup wizard
   - self-update support
 - [mx-proxy](https://github.com/garlic0x1/mx-proxy) - a Web debugging proxy - with an Electron, GTK4 or Tcl/Tk GUI.
+- [crafterbin](https://github.com/parenworks/crafterbin) - a temporary file sharing service written in Common Lisp.
 
 #### Browser
 
