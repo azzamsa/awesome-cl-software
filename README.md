@@ -167,6 +167,9 @@ For more lisp development libraries, see [Awesome-cl](https://github.com/CodyRei
 #### Others
 
 - [Regex-coach](http://weitz.de/regex-coach/) - a graphical application for Windows which can be used to experiment with (Perl-compatible) regular expressions interactively. Freeware.
+- [gilt](https://github.com/parenworks/gilt) -  LazyGit-inspired TUI for Git.
+
+<img src="https://raw.githubusercontent.com/parenworks/gilt/master/images/gilt1.png" title="gitl TUI" alt="gilt TUI for git." style="max-width: 100%"/>
 
 ### Desktop Environment
 
