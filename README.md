@@ -33,10 +33,9 @@ See also:
     - [Chat Bot](#chat-bot)
   - [Development Tools](#development-tools)
     - [Databases](#databases)
-    - [IDE](#ide)
+    - [Editors](#editors)
     - [Others](#others)
   - [Desktop Environment](#desktop-environment)
-  - [Editors](#editors)
   - [Education](#education)
   - [File Manager](#file-manager)
   - [Games](#games)
@@ -156,10 +155,28 @@ Terminal applications:
 - ⭐ [Pgchart](https://github.com/dimitri/pgcharts) - A self-contained web application that takes as input an SQL query text and outputs its data as a chart. [No License Specified]
 - ⭐ [AllegroGraph](https://franz.com/agraph/allegrograph/) - A modern, high-performance, persistent graph database.
 
-#### IDE
+#### Editors
+
+- [Lem](https://github.com/cxxxr/lem) - Common Lisp editor/IDE with high expansibility. [MIT].
+  - works out of the box for many languages. Has a Language Server Protocol (LSP) client.
+  - Git interface
+- [Neomacs](https://github.com/neomacs-project/neomacs) - Neomacs is a computing environment based on structural editing. Neomacs aims to become the Emacs of trees. Currently, Neomacs is a usable Lisp IDE and keyboard-driven browser. GPL3.
+
+![](https://github.com/neomacs-project/neomacs/raw/master/matrix.png "Neomacs")
+
+and also:
+
+- [Second Climacs](https://github.com/robert-strandh/Second-Climacs) - Version 2 of the Climacs text editor.
+- [Med](https://github.com/burtonsamograd/med) - Emacs-like text editor for the Mezzano operating system. [MIT].
+- [Hemlock](https://github.com/bluelisp/hemlock) -  Portable version of the Hemlock editor. [No Licence Specified].
+
+Classical CL tools (Emacs front-end (Slime), CL back-end (Swank)):
 
 - [SLIME](https://github.com/slime/slime) - The Superior Lisp Interaction Mode for Emacs.
 - [Sly](https://github.com/joaotavora/sly) - Sylvester the Cat's Common Lisp IDE (slime's fork)
+
+Third-party:
+
 - [Judge0 IDE](https://ide.judge0.com/?lUpj) is an online editor which supports Common Lisp (SBCL). [MIT][200].
 
 For more lisp development libraries, see [Awesome-cl](https://github.com/CodyReichert/awesome-cl).
@@ -176,19 +193,6 @@ For more lisp development libraries, see [Awesome-cl](https://github.com/CodyRei
 - [mold-desktop](https://codeberg.org/mmontone/mold-desktop) - a programmable, in-browser desktop. [AGPL]
 - [Mcclim-desktop](https://github.com/gas2serra/mcclim-desktop) - a clim-desktop clone. [GPL3].
 
-### Editors
-
-- [Lem](https://github.com/cxxxr/lem) - Common Lisp editor/IDE with high expansibility. [MIT].
-  - works out of the box for many languages. Has a Language Server Protocol (LSP) client.
-- [Neomacs](https://github.com/neomacs-project/neomacs) - Neomacs is a computing environment based on structural editing. Neomacs aims to become the Emacs of trees. Currently, Neomacs is a usable Lisp IDE and keyboard-driven browser. GPL3.
-
-![](https://github.com/neomacs-project/neomacs/raw/master/matrix.png "Neomacs")
-
-and also:
-
-- [Second Climacs](https://github.com/robert-strandh/Second-Climacs) - Version 2 of the Climacs text editor.
-- [Med](https://github.com/burtonsamograd/med) - Emacs-like text editor for the Mezzano operating system. [MIT].
-- [Hemlock](https://github.com/bluelisp/hemlock) -  Portable version of the Hemlock editor. [No Licence Specified].
 
 ### Education
 
