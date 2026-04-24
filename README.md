@@ -25,46 +25,45 @@ See also:
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents**
 
-- [Awesome Common Lisp Application Software](#awesome-common-lisp-application-software)
-    - [Applications](#applications)
-        - [Audio](#audio)
-        - [Blogging](#blogging)
-            - [Static Blog Generator](#static-blog-generator)
-        - [Chat](#chat)
-            - [Chat Bot](#chat-bot)
-        - [Development Tools](#development-tools)
-            - [Databases](#databases)
-            - [IDE](#ide)
-            - [Others](#others)
-        - [Desktop Environment](#desktop-environment)
-        - [Editors](#editors)
-        - [Education](#education)
-        - [File Manager](#file-manager)
-        - [Games](#games)
-        - [Graphics](#graphics)
-            - [Image Creation](#image-creation)
-            - [Image Viewer](#image-viewer)
-        - [Internet](#internet)
-            - [Browser](#browser)
-            - [Torrent](#torrent)
-            - [RSS](#rss)
-        - [Operating System](#operating-system)
-        - [Productivity](#productivity)
-        - [Publishing](#publishing)
-        - [Social news](#social-news)
-        - [Utilities](#utilities)
-        - [Video Player](#video-player)
-        - [Wiki software](#wiki-software)
-        - [Window Manager](#window-manager)
-        - [Other](#other)
-            - [Historical Purposes](#historical-purposes)
-    - [Mobile Applications](#mobile-applications)
-    - [Other Lists](#other-lists)
-    - [Contributors](#contributors)
-    - [Guidelines to contribute](#guidelines-to-contribute)
-    - [Unsure how to contribute?](#unsure-how-to-contribute)
-    - [Note](#note)
-    - [License](#license)
+- [Applications](#applications)
+  - [Audio](#audio)
+  - [Blogging](#blogging)
+    - [Static Blog Generator](#static-blog-generator)
+  - [Chat](#chat)
+    - [Chat Bot](#chat-bot)
+  - [Development Tools](#development-tools)
+    - [Databases](#databases)
+    - [IDE](#ide)
+    - [Others](#others)
+  - [Desktop Environment](#desktop-environment)
+  - [Editors](#editors)
+  - [Education](#education)
+  - [File Manager](#file-manager)
+  - [Games](#games)
+  - [Graphics](#graphics)
+    - [Image Creation](#image-creation)
+    - [Image Viewer](#image-viewer)
+  - [Internet](#internet)
+    - [Browser](#browser)
+    - [Chat](#chat-1)
+    - [Torrent](#torrent)
+  - [Operating System](#operating-system)
+  - [Productivity](#productivity)
+  - [Publishing](#publishing)
+  - [Social news](#social-news)
+  - [Utilities](#utilities)
+  - [Video Player](#video-player)
+  - [Wiki software](#wiki-software)
+  - [Window Manager](#window-manager)
+  - [Other](#other)
+    - [Historical Purposes](#historical-purposes)
+- [Mobile Applications](#mobile-applications)
+- [Other Lists](#other-lists)
+- [Contributors](#contributors)
+- [Guidelines to contribute](#guidelines-to-contribute)
+- [Unsure how to contribute?](#unsure-how-to-contribute)
+- [Note](#note)
+- [License](#license)
 
 <!-- markdown-toc end -->
 
@@ -310,6 +309,15 @@ Terminal applications:
 Deprecated:
 
 - [Lispkit](https://github.com/AeroNotix/lispkit) - A lisp web browser using WebKit
+
+#### Chat
+
+- [lisp-chat](https://github.com/ryukinix/lisp-chat/) - An experimental chat irc-like written in Lisp.
+  - terminal and web interfaces
+  - alternative clients: Emacs, Flutter GUI for MacOS, Android, iOS and web.
+- [CLatter](https://github.com/parenworks/CLatter) - A terminal-based IRC client written in Common Lisp using the croatoan ncurses library.
+
+<img src="https://raw.githubusercontent.com/ryukinix/lisp-chat/master/lisp-chat-web.png" alt="lisp-chat web interface" style="max-width: 100%"/>
 
 #### Torrent
 
