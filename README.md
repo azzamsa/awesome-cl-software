@@ -199,6 +199,9 @@ For more lisp development libraries, see [Awesome-cl](https://github.com/CodyRei
 - [Maxima](https://sourceforge.net/projects/maxima/files/) - Computer Algebra System written in Common Lisp. [GPL2].
 - [Axiom](https://github.com/daly/axiom) -  Axiom is a free, open source computer algebra system. It is developed in its Spad language that compiles to Common Lisp.
   - [FriCAS](https://github.com/fricas/fricas) is a fork, more maintained and easier to build. «The FriCAS algebra library is the largest and most advanced free general purpose computer algebra system».
+  * FriCAS is written in its own strongly (but not statically) typed language and compiles to over half a million lines of Common Lisp code.
+  * It comes with a fine print manual over 800 pages.
+  * Example [blog post using FriCAS](https://www.stylewarning.com/posts/beating-bellard/)
 - [MathB](https://github.com/susam/mathb) - a math pastebin.
 
 ### File Manager
