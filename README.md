@@ -191,8 +191,16 @@ For more lisp development libraries, see [Awesome-cl](https://github.com/CodyRei
 ### Desktop Environment
 
 - [mold-desktop](https://codeberg.org/mmontone/mold-desktop) - a programmable, in-browser desktop. [AGPL]
-- [Mcclim-desktop](https://github.com/gas2serra/mcclim-desktop) - a clim-desktop clone. [GPL3].
+- [Barista](https://40ants.com/barista/) - a macOS menu-bar application framework in Common Lisp.
+  - built-in plugins: pomodoro, clipboard, currency, system monitor.
 
+<img src="https://40ants.com/barista/docs/images/pomodoro.gif" title="" alt="Barista: macOS menu-bar application." style="max-width: 100%"/>
+
+For inspiration:
+
+- [Mcclim-desktop](https://github.com/gas2serra/mcclim-desktop) - a launcher of McClim applications. (stalled)
+  - [console](https://github.com/gas2serra/mcclim-desktop/blob/master/Apps/console/README.org), [threads manager](https://github.com/gas2serra/mcclim-desktop/blob/master/Apps/task-manager/README.org), [image editor](https://github.com/slyrus/spectacle)…
+  - a clim-desktop clone. [GPL3].
 
 ### Education
 
